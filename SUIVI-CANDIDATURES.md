@@ -39,9 +39,17 @@
 | 4 | 3F Grand Est | contact@groupe3f.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 5 | Alsace Habitat | contact@alsacehabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 6 | Ophéa | direction@ophea.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 7 | **Habitation Moderne** ⭐NOUVEAU | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 7 | **Habitation Moderne** ⭐ | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 
-**Adresses email alternatives/secondaires trouvées :** Domial = `domial@domial.fr` (siège) et `com@domial.fr` (communication) · Ophéa DG = `julien.mattei@ophea.fr` (vérifié) · Alsace Habitat DPO = `dpo.alsacehabitat@anaxia-conseil.fr`.
+**Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
+- **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
+- **Domial** : `domial@domial.fr` (siège) · `com@domial.fr` (communication) — en plus de crc@
+- **Ophéa** : `julien.mattei@ophea.fr` (DG, ✅ vérifié) → format `prenom.nom@ophea.fr`
+- **3F Grand Est** : `myriam.chalmeton@groupe3f.fr` (DG, 🔶 format ~98 %)
+- **Alsace Habitat** DPO : `dpo.alsacehabitat@anaxia-conseil.fr`
+- **Foyer Moderne de Schiltigheim** : `rgpd@foyer-moderne.com` (DPO ; demande via formulaire) · 03 88 19 25 70
+- **Habitat et Humanisme** contact : `a.escames@habitat-humanisme.org` (Audrey Escames)
 
 ### Bailleurs sans email public (formulaire en ligne uniquement — vérifié)
 
