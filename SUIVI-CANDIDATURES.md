@@ -69,19 +69,44 @@
 
 Résultat d'une recherche approfondie (documents officiels, rapports, annuaires d'entreprises). Légende : ✅ **vérifié** · 🔶 **format d'email fiable, adresse à confirmer** · ⚪ **non public** (passer par boîte générique + mention « À l'attention de… »).
 
-| Bailleur | Personne | Fonction | Email | Fiabilité |
-|----------|----------|----------|-------|-----------|
-| **Ophéa** | Julien Mattei | Directeur général | `julien.mattei@ophea.fr` | ✅ vérifié (doc officiel Ophéa) |
-| **Ophéa** | *(format maison)* | — | `prenom.nom@ophea.fr` | ✅ format vérifié |
-| **Ophéa** | Salah Koussa | Président du CA | via `direction@ophea.fr` | ⚪ |
-| **3F Grand Est** | Myriam Chalmeton | Directrice générale | `myriam.chalmeton@groupe3f.fr` | 🔶 format `prenom.nom@groupe3f.fr` (fiable ~98 %) |
-| **3F Grand Est** | David Leleu | Président | via `contact@groupe3f.fr` | ⚪ |
-| **Domial** | Damien Tourneur | Directeur général | service comm. directe : `com@domial.fr` | 🔶 (nominatif non confirmé) |
-| **Domial** | Sandrine Amrhein | Présidente du CA | via `crc@domial.fr` | ⚪ |
-| **Alsace Habitat** | Francis Bentz | Directeur général | via `contact@alsacehabitat.fr` | ⚪ |
-| **Habitation Moderne** | Virginie Jacob | Directrice générale | formulaire + 03 88 32 52 10 | ⚪ |
+**Légende :** ✅ vérifié · 🟢 format **vérifié** appliqué à un nom (très fiable) · 🔶 format **probable** (RocketReach) appliqué à un nom (à confirmer) · ⚠️ nom connu mais **format non confirmé** (ne pas deviner — passer par la boîte générique).
 
-**Boîtes plus « directes » trouvées :** Domial communication = `com@domial.fr` (en plus de `crc@domial.fr`).
+### Ophéa — format `prenom.nom@ophea.fr` ✅ VÉRIFIÉ
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Betty Aufsatz** ⭐ | **Directrice de la Gestion Locative** (LA bonne personne) | `betty.aufsatz@ophea.fr` | 🟢 format vérifié |
+| Julien Mattei | Directeur général | `julien.mattei@ophea.fr` | ✅ vérifié (doc officiel) |
+| Viviane Ehrhardt | Dir. Finances/Compta | `viviane.ehrhardt@ophea.fr` | 🟢 |
+| Stéphanie Hochart | DRH | `stephanie.hochart@ophea.fr` | 🟢 |
+
+### Habitation Moderne — format `p.nom@habitationmoderne.org` 🔶 (RocketReach ~63–83 %)
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Virginie Jacob** | Directrice générale | `v.jacob@habitationmoderne.org` | 🔶 |
+| Magali Schmitt | DRH | `m.schmitt@habitationmoderne.org` | 🔶 |
+| Bastien Remy | Dir. administratif & financier | `b.remy@habitationmoderne.org` | 🔶 |
+| Cédric Kress | Responsable juridique | `c.kress@habitationmoderne.org` | 🔶 |
+| *(boîtes service)* | — | `habmod@…` · `candidature@…` | ✅ |
+
+### 3F Grand Est — format `prenom.nom@groupe3f.fr` 🔶 (~98 %)
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| Myriam Chalmeton | Directrice générale | `myriam.chalmeton@groupe3f.fr` | 🔶 |
+| Agnès Tabareau | Resp. communication/presse | `agnes.tabareau@groupe3f.fr` | 🔶 |
+
+### Habitat et Humanisme Alsace
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Audrey Escames** | Contact logement | `a.escames@habitat-humanisme.org` | ✅ vérifié (site) |
+
+### Noms connus mais format NON confirmé (⚠️ ne pas deviner — boîte générique + « À l'attention de »)
+| Bailleur | Personne | Fonction | Indice format |
+|----------|----------|----------|---------------|
+| Domial | Damien Tourneur (DG), Mathias Perriot (DGD), Gabriel Humbert (DGA) | Direction | échantillon `g****@domial.fr` (1ʳᵉ lettre = prénom) |
+| Habitat de l'Ill | Dominique Simon | Directrice générale | — (générique `accueil@habitatdelill.fr`) |
+| Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` |
+
+**Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com`.
 
 > 🧠 **Conseil stratégique :** n'écrivez PAS directement au DG pour une demande de logement — c'est renvoyé au service location et ça dessert la candidature. La bonne méthode :
 > 1. Envoyer à la **boîte générique** (déjà dans vos brouillons) en ajoutant en tête *« À l'attention du service Gestion locative / Attributions »*.
