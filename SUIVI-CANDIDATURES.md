@@ -53,18 +53,31 @@
 
 ---
 
-## 📎 Pièces jointes : comment faire (IMPORTANT)
+## 👤 Contacts nominatifs (dirigeants) — à utiliser via « À l'attention de… »
 
-Je **ne peux pas** insérer automatiquement votre dossier DossierFacile dans les brouillons : le fichier fait **9 Mo** et l'outil d'envoi ne permet pas d'injecter un fichier aussi lourd (la compression ne réduit rien, ce sont des scans déjà optimisés). **Avant d'envoyer chaque email, faites au choix :**
+Les bailleurs **ne publient pas** les emails nominatifs de leurs salariés (RGPD). En revanche, les **noms des dirigeants** sont publics : adressez votre message à la boîte générique en précisant *« À l'attention de [Nom], [fonction] »*, ou demandez la personne par téléphone.
 
-- **🟢 Solution recommandée — le lien DossierFacile :** depuis votre compte DossierFacile, copiez votre **lien de partage sécurisé** et collez-le dans l'email. C'est la méthode que les bailleurs préfèrent (plus léger, toujours à jour, traçable). → Si vous me donnez ce lien, je l'insère dans les 6 brouillons en une fois.
-- **Sinon — pièce jointe manuelle :** ouvrez chaque brouillon dans Gmail → 📎 → joignez le PDF `DossierFacile_Mohamed_BAOUCH.pdf` (et éventuellement l'attestation d'enregistrement).
+| Bailleur | Personne identifiée | Fonction | Comment l'atteindre |
+|----------|--------------------|----------|---------------------|
+| Ophéa | **Julien Mattei** | Directeur général | direction@ophea.fr / 03 88 21 17 00 |
+| Habitation Moderne | **Virginie Jacob** | Directrice générale | Formulaire + 03 88 32 52 10 (demander le service location) |
+
+> ℹ️ Je n'invente pas d'adresses : écrire à une adresse « devinée » (type prenom.nom@…) finit en erreur d'envoi et dessert la candidature. Le plus efficace = **boîte générique + mention nominative**, puis **un appel** pour demander le chargé de clientèle/attribution.
+
+## 📎 Pièces jointes : RÉSOLU — lien DossierFacile inséré
+
+✅ **Le lien de partage sécurisé DossierFacile est désormais inséré dans les 6 brouillons finaux :**
+`https://locataire.dossierfacile.logement.gouv.fr/file/066b58f6-8a1c-40be-9e85-ca3cdb38dbc3`
+
+C'est la méthode que les bailleurs préfèrent (dossier certifié par l'État, plus léger qu'un PDF de 9 Mo, toujours à jour). Le PDF de 9 Mo ne pouvait pas être injecté automatiquement via l'outil d'envoi — le lien règle le problème. Si vous tenez à joindre aussi le PDF, ajoutez-le manuellement (📎 dans chaque brouillon).
+
+> ⚠️ **3 générations de brouillons existent maintenant** (Gmail ne me laisse pas supprimer). **Gardez uniquement les 6 brouillons contenant le LIEN DossierFacile** (les plus récents) et supprimez tous les autres + le « TEST ».
 
 ---
 
 ## 🔁 Checklist avant envoi
-1. [ ] Supprimer les anciens brouillons + le « TEST » (garder les 6 récents).
-2. [ ] Ajouter le **lien DossierFacile** ou la **pièce jointe** à chaque brouillon.
+1. [ ] Supprimer les brouillons en double + le « TEST » (garder les 6 contenant le **lien DossierFacile**).
+2. [x] ~~Ajouter le lien DossierFacile~~ — **fait** (inséré dans les 6 brouillons).
 3. [ ] Envoyer les 6 emails et **cocher la date** dans le tableau ci-dessus.
 4. [ ] Traiter les 6 bailleurs sans email via leur **formulaire** (copier-coller le modèle).
 5. [ ] Vérifier que la **demande en ligne** reste **complète** sur [demandedelogement-alsace.fr](https://www.demandedelogement-alsace.fr/imhowebGP67/).
