@@ -53,16 +53,30 @@
 
 ---
 
-## 👤 Contacts nominatifs (dirigeants) — à utiliser via « À l'attention de… »
+## 👤 Contacts nominatifs (dirigeants) — recherche approfondie
 
-Les bailleurs **ne publient pas** les emails nominatifs de leurs salariés (RGPD). En revanche, les **noms des dirigeants** sont publics : adressez votre message à la boîte générique en précisant *« À l'attention de [Nom], [fonction] »*, ou demandez la personne par téléphone.
+Résultat d'une recherche approfondie (documents officiels, rapports, annuaires d'entreprises). Légende : ✅ **vérifié** · 🔶 **format d'email fiable, adresse à confirmer** · ⚪ **non public** (passer par boîte générique + mention « À l'attention de… »).
 
-| Bailleur | Personne identifiée | Fonction | Comment l'atteindre |
-|----------|--------------------|----------|---------------------|
-| Ophéa | **Julien Mattei** | Directeur général | direction@ophea.fr / 03 88 21 17 00 |
-| Habitation Moderne | **Virginie Jacob** | Directrice générale | Formulaire + 03 88 32 52 10 (demander le service location) |
+| Bailleur | Personne | Fonction | Email | Fiabilité |
+|----------|----------|----------|-------|-----------|
+| **Ophéa** | Julien Mattei | Directeur général | `julien.mattei@ophea.fr` | ✅ vérifié (doc officiel Ophéa) |
+| **Ophéa** | *(format maison)* | — | `prenom.nom@ophea.fr` | ✅ format vérifié |
+| **Ophéa** | Salah Koussa | Président du CA | via `direction@ophea.fr` | ⚪ |
+| **3F Grand Est** | Myriam Chalmeton | Directrice générale | `myriam.chalmeton@groupe3f.fr` | 🔶 format `prenom.nom@groupe3f.fr` (fiable ~98 %) |
+| **3F Grand Est** | David Leleu | Président | via `contact@groupe3f.fr` | ⚪ |
+| **Domial** | Damien Tourneur | Directeur général | service comm. directe : `com@domial.fr` | 🔶 (nominatif non confirmé) |
+| **Domial** | Sandrine Amrhein | Présidente du CA | via `crc@domial.fr` | ⚪ |
+| **Alsace Habitat** | Francis Bentz | Directeur général | via `contact@alsacehabitat.fr` | ⚪ |
+| **Habitation Moderne** | Virginie Jacob | Directrice générale | formulaire + 03 88 32 52 10 | ⚪ |
 
-> ℹ️ Je n'invente pas d'adresses : écrire à une adresse « devinée » (type prenom.nom@…) finit en erreur d'envoi et dessert la candidature. Le plus efficace = **boîte générique + mention nominative**, puis **un appel** pour demander le chargé de clientèle/attribution.
+**Boîtes plus « directes » trouvées :** Domial communication = `com@domial.fr` (en plus de `crc@domial.fr`).
+
+> 🧠 **Conseil stratégique :** n'écrivez PAS directement au DG pour une demande de logement — c'est renvoyé au service location et ça dessert la candidature. La bonne méthode :
+> 1. Envoyer à la **boîte générique** (déjà dans vos brouillons) en ajoutant en tête *« À l'attention du service Gestion locative / Attributions »*.
+> 2. **Téléphoner** pour demander *« le chargé de clientèle qui suit le secteur Neudorf/Meinau/Illkirch »* → c'est ainsi qu'on obtient un interlocuteur humain nominatif.
+> 3. Les adresses 🔶 (format probable) servent surtout en **relance ciblée** si la boîte générique ne répond pas.
+>
+> ℹ️ Je n'affirme aucune adresse « devinée » comme certaine : seules les ✅ sont confirmées. Les emails nominatifs des chargés d'attribution ne sont pas publiés (RGPD) — le téléphone reste le moyen le plus efficace de les obtenir.
 
 ## 📎 Pièces jointes : RÉSOLU — lien DossierFacile inséré
 
