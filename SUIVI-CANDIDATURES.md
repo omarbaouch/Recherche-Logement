@@ -39,17 +39,21 @@
 | 4 | 3F Grand Est | contact@groupe3f.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 5 | Alsace Habitat | contact@alsacehabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 6 | Ophéa | direction@ophea.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 7 | **Habitation Moderne** ⭐NOUVEAU | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 
-### Bailleurs sans email (à faire via formulaire en ligne)
+**Adresses email alternatives/secondaires trouvées :** Domial = `domial@domial.fr` (siège) et `com@domial.fr` (communication) · Ophéa DG = `julien.mattei@ophea.fr` (vérifié) · Alsace Habitat DPO = `dpo.alsacehabitat@anaxia-conseil.fr`.
+
+### Bailleurs sans email public (formulaire en ligne uniquement — vérifié)
 
 | # | Bailleur | Démarche | Statut | Date | Relance |
 |---|----------|----------|--------|------|---------|
-| 7 | Habitation Moderne | [Formulaire](https://www.habitationmoderne.org/?page_id=29) · 03 88 32 52 10 | ☐ À faire | ☐ | ☐ |
-| 8 | Batigère (agence Strasbourg) | 4 bd du Président Wilson, 67000 · 03 88 52 88 00 | ☐ À faire | ☐ | ☐ |
+| 8 | Batigère (agence Strasbourg) | [Formulaire](https://www.batigere.fr) · 4 bd du Président Wilson, 67000 · 03 88 52 88 00 | ☐ À faire | ☐ | ☐ |
 | 9 | OPUS 67 | [Formulaire](https://www.opus67.fr/contactez-nous/) · 03 88 27 93 00 | ☐ À faire | ☐ | ☐ |
 | 10 | CDC Habitat | [Formulaire](https://groupe-cdc-habitat.com/contact/) · 09 72 67 66 10 | ☐ À faire | ☐ | ☐ |
-| 11 | Socolopo / SEDES | socolopo.org · 03 90 20 44 50 | ☐ À faire | ☐ | ☐ |
-| 12 | Vilogia (agence Strasbourg) | 19 rue de Genève, 67000 · 09 69 37 36 35 | ☐ À faire | ☐ | ☐ |
+| 11 | Socolopo / SEDES Habitat | [Formulaire](http://www.sedeshabitat.fr) · 03 90 20 44 50 | ☐ À faire | ☐ | ☐ |
+| 12 | Vilogia (agence Strasbourg) | [Espace/formulaire](https://www.vilogia.fr) · 19 rue de Genève, 67000 · 09 69 37 36 35 | ☐ À faire | ☐ | ☐ |
+
+> 🔎 J'ai vérifié les pages contact + mentions légales + DPO de ces 5 bailleurs : ils masquent leurs emails (JavaScript / formulaire obligatoire). Seul moyen écrit = leur formulaire.
 
 ---
 
