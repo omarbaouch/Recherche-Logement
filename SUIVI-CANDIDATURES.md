@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 8 — **10 nouveaux brouillons agences privées** : Orpi Neudorf ⭐, Orpi Bartholdi, Citya Ségesca, Foncia, Square Habitat, Century 21 Etoile ⭐⭐⭐, Laforêt, ERA Mathis ⭐⭐, Christelle Clauss Orangerie, Christelle Clauss Krutenau)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 9 — **23 brouillons agences privées au total** : Century 21 Etoile ⭐⭐⭐, ERA Mathis ⭐⭐, ASI Meinau ⭐⭐, Bintz ⭐⭐, Orpi Illkirch ⭐, Nestenn Illkirch ⭐, Laforêt Illkirch ⭐, Hédoniste Montagne Verte ⭐, INNOVIMMO Orangerie ⭐, et plus)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -29,7 +29,8 @@
 7. Recherche approfondie de contacts nominatifs : formats email confirmés pour Ophéa, Habitat de l'Ill, Domial, ICF Habitat, 3F Grand Est.
 8. Document de contacts complet : voir `bailleurs-sociaux-strasbourg.md`.
 9. **5 brouillons agences PRIVÉES (22/06 après-midi)** : Orpi Neudorf (nominatif dbierryneudorf), Orpi Bartholdi (gbeutel), Citya Ségesca (nominatif jcrehm directeur), Foncia (strasbourg-location65u), Square Habitat (nominatif justine.bohlandt).
-10. **5 brouillons agences PRIVÉES supplémentaires (22/06 soir)** : Century 21 Etoile Neudorf ⭐⭐⭐ (etoile@century21france.fr — couvre Neudorf/Meinau/Esplanade 30 ans), Laforêt Strasbourg (strasbourg@laforet.com), ERA Mathis Meinau ⭐⭐ (mathis@erafrance.com CC malteries@), Christelle Clauss Orangerie (strasbourg.orangerie@), Christelle Clauss Krutenau (strasbourg.krutenau@).
+10. **5 brouillons agences PRIVÉES supplémentaires (22/06 soir)** : Century 21 Etoile Neudorf ⭐⭐⭐ (etoile@century21france.fr), Laforêt Strasbourg (strasbourg@laforet.com), ERA Mathis Meinau ⭐⭐ (mathis@erafrance.com CC malteries@), Christelle Clauss Orangerie, Christelle Clauss Krutenau.
+11. **13 brouillons SUPPLÉMENTAIRES (22/06 nuit — recherche approfondie)** : Stéphane Plaza Neudorf/Illkirch, L'Agence Strasbourg (Meyer), L'Adresse (Pacquelet), ASI Meinau ⭐⭐ (Petitpoisson), Bintz Neudorf ⭐⭐, Orpi Illkirch Résidence 2000 ⭐, Nestenn Illkirch ⭐, Laforêt Illkirch ⭐ (P.Bury), Strasbourg Immobilier Meinau (Haslé), Francis Fischer Meinau, Hédoniste Montagne Verte ⭐, Immobilière Zimmermann (Schutz), INNOVIMMO Orangerie ⭐ (Welker).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -85,6 +86,19 @@
 | **13c** | **ERA Agence Mathis** ⭐⭐ (Meinau/Neudorf) | `mathis@erafrance.com` (252 av. Colmar) + CC `malteries@erafrance.com` (Schiltigheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 14a | Christelle Clauss — Orangerie | `strasbourg.orangerie@christelleclauss.com` 🔶 (format probable — 60 Bd de la Marne) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 14b | Christelle Clauss — Krutenau/Esplanade | `strasbourg.krutenau@christelleclauss.com` + CC `strasbourg.bourse@christelleclauss.com` 🔶 (16 rue Peirotes) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 15a | Stéphane Plaza Neudorf + Illkirch | `contact@stephaneplazaimmobilier.com` (Neudorf 67 rte Polygone + Illkirch 154B rte Lyon — Samia EL KHOURY) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 15b | L'Agence Strasbourg (nominatif) | `contact@immobiliere-agence-strasbourg.fr` + CC `lagencestrasbourg@gmail.com` (Patrick MEYER, directeur — 9 rue Arquebusiers) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 15c | L'Adresse Strasbourg (nominatif) | `eric.pacquelet@ladresse.com` 🔶 (format 87.7% — Eric PACQUELET directeur, 22 rue d'Ypres) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **16a** | **ASI Meinau** ⭐⭐ (3 500 logements gérés) | `julien.petitpoisson@asi67.com` + CC `nicolas.petitpoisson@asi67.com` (co-directeurs, 200 av. Colmar — Meinau) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **16b** | **Bintz Immobilier Neudorf** ⭐⭐ (depuis 1950) | `contact@bintzimmobilier.fr` (Garin BINTZ, 1 rue Saint-Arbogast — spécialiste Neudorf) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **17a** | **Orpi Résidence 2000 Illkirch** ⭐ | `residence2000@orpi.com` (158B rte de Lyon, 67400 Illkirch) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **17b** | **Nestenn Illkirch** ⭐ | `illkirch@nestenn.com` (25 rue Vincent Scotto, 67400 Illkirch) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **17c** | **Laforêt Illkirch** ⭐ (nominatif directeur) | `illkirch@laforet.com` (Pierre BURY directeur, 217 rte de Lyon, 67400) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 18a | Strasbourg Immobilier Meinau (nominatif) | `contact@strasbourg-immobilier.fr` (Yoann HASLÉ directeur) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **18b** | **Francis Fischer Immobilier** ⭐ (Meinau, 30 ans) | `florentfischer@yahoo.fr` (Florent FISCHER — 8 rue Gén. Offenstein, 67100 Meinau) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **19a** | **Hédoniste / himmo.fr** ⭐ (spécialiste Montagne Verte) | `contact@himmo.fr` (57 rte de Schirmeck, 67200 — Montagne Verte/Koenigshoffen) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 19b | Immobilière Zimmermann (Citya/nominatif) | `schutz@immo-zimmermann.com` (François-Xavier SCHUTZ, 33 rue des Carmes, 67100) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **20a** | **INNOVIMMO Orangerie** ⭐ (nominatif directeur) | `contact@innovimmo-strasbourg.fr` (Pascal WELKER, 1 rue de Belfort, 67100 — Orangerie) | 🟡 Brouillon prêt | ☐ | ☐ | |
 
 ### 🏢 Agences privées — sans email direct (formulaire uniquement)
 
