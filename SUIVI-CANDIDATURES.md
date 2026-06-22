@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 21/06/2026
+**Dernière mise à jour de ce fichier :** 22/06/2026
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -22,10 +22,13 @@
 ## ✅ Actions déjà réalisées (par l'assistant)
 1. Recherche des bailleurs sociaux de Strasbourg et alentours + récupération des emails publics.
 2. Rédaction d'un email de candidature personnalisé (n° unique + critères + profil).
-3. **6 brouillons créés** dans Gmail (`mohamed.omar.baouch@gmail.com`), prêts à relire et envoyer.
-4. Document de contacts complet : voir `bailleurs-sociaux-strasbourg.md`.
+3. **6 brouillons génériques créés** dans Gmail (21/06), prêts à relire et envoyer.
+4. **2 brouillons nominatifs ciblés** : Ophéa (CC Betty Aufsatz + Julien Mattei) + 3F Grand Est (à Myriam Chalmeton).
+5. **3 nouveaux brouillons créés (22/06)** : SEDES Habitat, Habitat de l'Ill (nominatif Dominique Simon), Domial (nominatif Gabriel Humbert DGA).
+6. Recherche approfondie de contacts nominatifs : formats email confirmés pour Ophéa, Habitat de l'Ill, Domial, 3F Grand Est.
+7. Document de contacts complet : voir `bailleurs-sociaux-strasbourg.md`.
 
-> ⚠️ **2 anciens lots de brouillons à supprimer manuellement** dans Gmail : les **6 premiers brouillons** (critères non affinés) + **1 brouillon « TEST »**. Gmail ne m'autorise pas à les supprimer (autorisation « modification » non accordée). **Gardez uniquement les 6 brouillons les plus récents** (datés du 21/06, corps « Le logement recherché : minimum 2 pièces… 40 m² »).
+> ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
 ---
 
@@ -33,14 +36,19 @@
 
 | # | Bailleur | Email | Statut | Date d'envoi | Relance prévue (~3 sem.) | Réponse |
 |---|----------|-------|--------|--------------|--------------------------|---------|
-| 1 | Domial | crc@domial.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 2 | Habitat de l'Ill | accueil@habitatdelill.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 1 | Domial (générique) | crc@domial.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 1b | **Domial (nominatif)** ⭐ | g.humbert@domial.fr + CC crc@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 2 | Habitat de l'Ill (générique) | accueil@habitatdelill.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 2b | **Habitat de l'Ill (nominatif)** ⭐ | dominique.simon@habitatdelill.fr + CC accueil@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 3 | ICF Habitat Nord-Est | icfnordest.alsace-lorraine@icfhabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 4 | 3F Grand Est | contact@groupe3f.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 4 | 3F Grand Est (générique) | contact@groupe3f.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 4b | **3F Grand Est (nominatif)** ⭐ | myriam.chalmeton@groupe3f.fr + CC contact@ | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 5 | Alsace Habitat | contact@alsacehabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 6 | Ophéa | direction@ophea.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 6 | Ophéa (générique) | direction@ophea.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 6b | **Ophéa (nominatif)** ⭐ | direction@ophea.fr + CC betty.aufsatz@ + julien.mattei@ | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 7 | **Habitation Moderne** ⭐ | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 9 | **SEDES Habitat** (Coop. + Batigère) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
 - **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
@@ -99,14 +107,35 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 |----------|----------|-------|-----------|
 | **Audrey Escames** | Contact logement | `a.escames@habitat-humanisme.org` | ✅ vérifié (site) |
 
-### Noms connus mais format NON confirmé (⚠️ ne pas deviner — boîte générique + « À l'attention de »)
+### Habitat de l'Ill — format `prenom.nom@habitatdelill.fr` 🟢 (RocketReach 50 % / `prenom@` 50 %)
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Dominique Simon** | Directrice générale | `dominique.simon@habitatdelill.fr` | 🟢 format vérifié |
+| Ahmed Koujil | Président Commission d'Attribution des Logements | `ahmed.koujil@habitatdelill.fr` | 🔶 (membre CA, pas forcément staff) |
+
+> ℹ️ Ahmed Koujil préside la commission d'attribution — c'est un administrateur (élu), probablement sans boîte @habitatdelill.fr. Passer par la boîte générique en mentionnant « Commission d'Attribution ».
+
+### SEDES Habitat — format inconnu (rejoint Batigère en avril 2025)
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| Michel CIESLA | Directeur général | `info@sedeshabitat.fr` (boîte générique) | ✅ email de contact |
+| Jacques CREPIN | Président du CA | — | ⚪ non public |
+
+> ℹ️ SEDES a rejoint le groupe Batigère Habitat en avril 2025 ; le patrimoine est géré conjointement. Contacter aussi Batigère Strasbourg (formulaire).
+
+### Domial — format `[initiale].[nom]@domial.fr` 🔶 (RocketReach partiel)
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Gabriel Humbert** | Directeur Général Adjoint | `g.humbert@domial.fr` | 🔶 format probable |
+| Damien Tourneur | Directeur général | `d.tourneur@domial.fr` | 🔶 format probable |
+| Mathias Perriot | Directeur général délégué | `m.perriot@domial.fr` | 🔶 format probable |
+
+### Noms connus mais format NON confirmé (⚠️ boîte générique + « À l'attention de »)
 | Bailleur | Personne | Fonction | Indice format |
 |----------|----------|----------|---------------|
-| Domial | Damien Tourneur (DG), Mathias Perriot (DGD), Gabriel Humbert (DGA) | Direction | échantillon `g****@domial.fr` (1ʳᵉ lettre = prénom) |
-| Habitat de l'Ill | Dominique Simon | Directrice générale | — (générique `accueil@habitatdelill.fr`) |
-| Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` |
+| Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` → probable `f.bentz@alsacehabitat.fr` |
 
-**Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com`.
+**Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com` · SEDES Habitat = `info@sedeshabitat.fr`.
 
 > 🧠 **Conseil stratégique :** n'écrivez PAS directement au DG pour une demande de logement — c'est renvoyé au service location et ça dessert la candidature. La bonne méthode :
 > 1. Envoyer à la **boîte générique** (déjà dans vos brouillons) en ajoutant en tête *« À l'attention du service Gestion locative / Attributions »*.
@@ -127,10 +156,12 @@ C'est la méthode que les bailleurs préfèrent (dossier certifié par l'État, 
 ---
 
 ## 🔁 Checklist avant envoi
-1. [ ] Supprimer les brouillons en double + le « TEST » (garder les 6 contenant le **lien DossierFacile**).
-2. [x] ~~Ajouter le lien DossierFacile~~ — **fait** (inséré dans les 6 brouillons).
-3. [ ] Envoyer les 6 emails et **cocher la date** dans le tableau ci-dessus.
-4. [ ] Traiter les 6 bailleurs sans email via leur **formulaire** (copier-coller le modèle).
+1. [ ] Supprimer les brouillons en double + le « TEST » (garder uniquement les brouillons contenant le **lien DossierFacile**).
+2. [x] ~~Ajouter le lien DossierFacile~~ — **fait** (inséré dans tous les brouillons).
+3. [ ] Envoyer les **12 brouillons** (6 génériques + 3 nominatifs ciblés + SEDES + 2 autres nominatifs) et **cocher la date** dans le tableau.
+   - ⭐ **Priorité nominatif** : envoyer d'abord les brouillons « b » (nominatifs), PAS les génériques doublons.
+   - Pour Ophéa, Domial, Habitat de l'Ill, 3F : envoyer **soit** le générique **soit** le nominatif (pas les deux).
+4. [ ] Traiter les 5 bailleurs sans email via leur **formulaire** (copier-coller le modèle) : Batigère, OPUS 67, CDC Habitat, Vilogia + signaler que SEDES est désormais sous Batigère.
 5. [ ] Vérifier que la **demande en ligne** reste **complète** sur [demandedelogement-alsace.fr](https://www.demandedelogement-alsace.fr/imhowebGP67/).
 6. [ ] **Relancer** ~3 semaines après si pas de réponse.
 7. [ ] **Renouveler** la demande avant le **06/06/2027**.
