@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 4 — nouveaux contacts nominatifs AFEDIM)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 5 — bounces AFEDIM traités, adresses valides confirmées)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -61,7 +61,7 @@
 | **9g** ⭐⭐⭐ | **SEDES/Batigère — Forêt-Noire [MEILLEURE ADRESSE]** | **agence-strasbourg@batigere.fr** + CC contactsedeshabitat@batigere.fr | 🟡 Brouillon prêt (adresse candidatures VÉRIFIÉE ✅) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
-| **11b** ⭐⭐ | **AFEDIM (nominatif ciblé — Resp. Pole Clients)** | marianne.gallocher@afedim.fr + CC sonia.grimmer@ + clarisse.glotin@ + franck.deschodt@ | 🟡 Brouillon prêt (22/06 maj4) | ☐ | ☐ | |
+| **11b** ⭐⭐ | **AFEDIM (nominatif ciblé — Resp. Pole Clients)** | ~~marianne.gallocher@~~ ❌ + CC ~~franck.deschodt@~~ ❌ + **sonia.grimmer@ ✅ + clarisse.glotin@ ✅** | ✅ Partiellement livré (2/4 valides) | 22/06/2026 | ☐ | 2 bounces signalés |
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
 - **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
@@ -209,11 +209,11 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 | Personne | Fonction | Email | Fiabilité | Localisation |
 |----------|----------|-------|-----------|--------------|
-| **Marianne GALLOCHER** ⭐⭐ | **Responsable Pole Clients** (gestion ~3 500 logements) | `marianne.gallocher@afedim.fr` | 🔶 format probable | Strasbourg |
-| **Sonia GRIMMER** ⭐ | **Assistante** — agence CM-CIC/AFEDIM Strasbourg | `sonia.grimmer@afedim.fr` | 🔶 format probable | Strasbourg |
-| **Franck DESCHODT** | Représentant légal / Direction AFEDIM Strasbourg | `franck.deschodt@afedim.fr` | 🔶 format probable | Strasbourg |
+| ~~**Marianne GALLOCHER**~~ | Responsable Pole Clients | ~~`marianne.gallocher@afedim.fr`~~ | ❌ **BOUNCED** (22/06) — a quitté AFEDIM ou domaine différent | Strasbourg |
+| **Sonia GRIMMER** ⭐⭐ | **Assistante** — agence CM-CIC/AFEDIM Strasbourg | `sonia.grimmer@afedim.fr` | ✅ **VALIDE** (non-bounced 22/06) | Strasbourg |
+| ~~**Franck DESCHODT**~~ | Représentant légal AFEDIM Strasbourg | ~~`franck.deschodt@afedim.fr`~~ | ❌ **BOUNCED** (22/06) — email parent company ? | Strasbourg |
 | **Marie PAILHÉ** | Responsable d'unité Gestion locative | `marie.pailhe@afedim.fr` | 🔶 format probable | (Nantes probable) |
-| **Clarisse GLOTIN** | Gestionnaire locative | `clarisse.glotin@afedim.fr` | 🔶 format probable | — |
+| **Clarisse GLOTIN** ⭐⭐ | Gestionnaire locative | `clarisse.glotin@afedim.fr` | ✅ **VALIDE** (non-bounced 22/06) | — |
 | Philippe SCHMITT | Directeur réseau | `philippe.schmitt@afedim.fr` | 🟢 format vérifié | Obernai |
 | Mikael BRANDT | Dir. développement / dir. opérationnel Transactions | `mikael.brandt@afedim.fr` | 🟢 format vérifié | Strasbourg |
 | Axelle LIMOSIN | Responsable unité Gestion sinistre | `axelle.limosin@afedim.fr` | 🟢 (basée Nantes) | Nantes |
@@ -221,9 +221,11 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 **Sources :** RocketReach profil AFEDIM · LinkedIn (profils publics google-indexés) · recherche 22/06/2026
 
-> 🎯 **Brouillon 11 (v1)** : TO `clarisse.glotin@` + CC `franck.deschodt@` + `marie.pailhe@`
-> 🎯 **Brouillon 11b (v2) ⭐⭐** : TO `marianne.gallocher@` (Resp. Pole Clients Strasbourg) + CC `sonia.grimmer@` (assistante agence) + `clarisse.glotin@` + `franck.deschodt@` → **le brouillon le mieux ciblé**
-> ✅ **Format confirmé à 98,8%** (`prenom.nom@afedim.fr`) — fiable. Si besoin, tél. 03 88 14 83 20. Avec une agence privée, le plus efficace reste de **répondre aux annonces** sur afedim.fr.
+> 🎯 **Brouillon 11 (v1)** : TO `clarisse.glotin@` + CC `franck.deschodt@` + `marie.pailhe@` — ⚠️ franck.deschodt@ a rebondi (vérifier si clarisse/marie ont reçu)
+> 🎯 **Brouillon 11b (v2) ⭐⭐** : envoyé 22/06 — ❌ marianne.gallocher@ + ❌ franck.deschodt@ rebondis · ✅ **sonia.grimmer@** (assistante agence) + ✅ **clarisse.glotin@** (gestionnaire) ont reçu le message
+> 📢 **Résultat : le message est arrivé à l'agence** (Sonia GRIMMER assistante + Clarisse GLOTIN gestionnaire). C'est suffisant pour être dans leur radar.
+> ✅ **Adresses VALIDES confirmées :** `sonia.grimmer@afedim.fr` · `clarisse.glotin@afedim.fr`
+> ❌ **Adresses MORTES :** `marianne.gallocher@afedim.fr` · `franck.deschodt@afedim.fr`
 
 ### Alsace Habitat — agences locales VÉRIFIÉES ✅ (privilégier l'agence, pas le DG)
 ⚠️ **Crise de direction** : Nabil Bennacer (ex-DG) a été **révoqué** par le CA ; Francis Bentz lui a succédé mais la situation reste instable. → **Ne pas écrire au DG** ; viser l'agence du secteur.
