@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 6 — recherche profonde AFEDIM : 8 nouveaux noms CCI + brouillon 11c)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 7 — bounces 11c traités ; adresses AFEDIM valides : sonia.grimmer ✅ clarisse.glotin ✅ emmanuel.grondin ✅)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -62,7 +62,8 @@
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | **11b** ⭐⭐ | **AFEDIM (nominatif ciblé — Resp. Pole Clients)** | ~~marianne.gallocher@~~ ❌ + CC ~~franck.deschodt@~~ ❌ + **sonia.grimmer@ ✅ + clarisse.glotin@ ✅** | ✅ Partiellement livré (2/4 valides) | 22/06/2026 | ☐ | 2 bounces signalés |
-| **11c** ⭐⭐⭐ | **AFEDIM (agents CCI 2023 confirmés + adresses valides)** | magali.morin@ + CC aude.coquillon@ + emmanuel.grondin@ + sonia.grimmer@ ✅ + clarisse.glotin@ ✅ | 🟡 Brouillon prêt (22/06 maj6) | ☐ | ☐ | |
+| **11c** | **AFEDIM (agents CCI 2023)** | ~~magali.morin@~~ ❌ + CC ~~aude.coquillon@~~ ❌ + **emmanuel.grondin@ ✅** + **sonia.grimmer@ ✅** + **clarisse.glotin@ ✅** | ✅ Partiellement livré (3/5 valides) | 22/06/2026 | ☐ | 2 bounces |
+| **11d** | **AFEDIM (Enclos + Coutin — test adresses)** | gregory.enclos@ + CC ladislas.coutin@ + sonia.grimmer@ ✅ + clarisse.glotin@ ✅ | 🟡 Brouillon prêt (22/06 maj7) | ☐ | ☐ | |
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
 - **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
@@ -224,10 +225,10 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 | Personne | CPI / Source | Email probable | Fiabilité |
 |----------|-------------|----------------|-----------|
-| **Magali MORIN** ⭐ | AFEDIM CPI67012017000018257 · ADC2023 ✅ valide jusqu'à 2026 | `magali.morin@afedim.fr` | 🔶 format probable (attestation en cours) |
-| **Aude COQUILLON** ⭐ | AFEDIM CPI67012017000018257 · ADC2023 ✅ valide jusqu'à 2026 | `aude.coquillon@afedim.fr` | 🔶 format probable (attestation en cours) |
+| ~~Magali MORIN~~ | AFEDIM CPI67012017000018257 · ADC2023 | ~~`magali.morin@afedim.fr`~~ | ❌ **BOUNCED** (22/06) — a quitté ou format différent |
+| ~~Aude COQUILLON~~ | AFEDIM CPI67012017000018257 · ADC2023 | ~~`aude.coquillon@afedim.fr`~~ | ❌ **BOUNCED** (22/06) |
 | **Ladislas COUTIN** | AFEDIM CPI67012017000018257 · ADC2023 ✅ valide jusqu'à 2026 | `ladislas.coutin@afedim.fr` | 🔶 (conseiller patrimoine) |
-| **Emmanuel GRONDIN** | AFEDIM TRANSACTIONS CPI67012020000045122 · ADC2023 ✅ | `emmanuel.grondin@afedim.fr` | 🔶 (AFEDIM Transactions) |
+| **Emmanuel GRONDIN** ⭐⭐ | AFEDIM TRANSACTIONS CPI67012020000045122 · ADC2023 ✅ | `emmanuel.grondin@afedim.fr` | ✅ **VALIDE** (non-bounced 22/06) |
 | **Grégory ENCLOS** | LinkedIn + TrustPilot (ventes Strasbourg) | `gregory.enclos@afedim.fr` | 🔶 (Transactions, pas Gestion) |
 | Romain MELAN | AFEDIM CPI67012017000018257 · ADC2017 (plus ancienne) | `romain.melan@afedim.fr` | 🔶 (peut avoir quitté) |
 | Grégory MEDE | AFEDIM · ADC2020 | `gregory.mede@afedim.fr` | 🔶 |
@@ -238,12 +239,16 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 **Sources :** RocketReach profil AFEDIM · LinkedIn (profils publics google-indexés) · attestations CCI (cci.fr) · recherche approfondie 22/06/2026
 
-> 🎯 **Brouillon 11 (v1)** : TO `clarisse.glotin@` + CC `franck.deschodt@` + `marie.pailhe@` — ⚠️ franck.deschodt@ a rebondi
-> 🎯 **Brouillon 11b (v2)** : envoyé 22/06 — ❌ marianne.gallocher@ + ❌ franck.deschodt@ rebondis · ✅ sonia.grimmer@ + ✅ clarisse.glotin@ ont reçu
-> 🎯 **Brouillon 11c (v3) ⭐⭐⭐** : TO `magali.morin@` + CC `aude.coquillon@` + `emmanuel.grondin@` + `sonia.grimmer@` ✅ + `clarisse.glotin@` ✅ — **agents attestés CCI 2023, valides jusqu'en 2026**
-> ✅ **Adresses VALIDES confirmées :** `sonia.grimmer@afedim.fr` · `clarisse.glotin@afedim.fr`
-> ❌ **Adresses MORTES :** `marianne.gallocher@afedim.fr` · `franck.deschodt@afedim.fr`
-> ⚠️ **Vrai email Deschodt :** `franck.deschodt@cmcic-immobilier.fr` (Directeur Crédit Mutuel Immobilier, domaine parent)
+> ✅ **3 adresses VALIDES confirmées (non-bounced) :**
+> - `sonia.grimmer@afedim.fr` — Assistante agence Strasbourg
+> - `clarisse.glotin@afedim.fr` — Gestionnaire locative
+> - `emmanuel.grondin@afedim.fr` — Agent AFEDIM Transactions Strasbourg
+>
+> ❌ **Adresses MORTES (bounced) :** marianne.gallocher@ · franck.deschodt@afedim.fr · magali.morin@ · aude.coquillon@
+> ⚠️ **Vrai email Deschodt (domaine groupe) :** `franck.deschodt@cmcic-immobilier.fr` (97,8% — pas encore testé)
+> ⚠️ **Non encore testés :** `gregory.enclos@afedim.fr` · `ladislas.coutin@afedim.fr`
+>
+> 💡 **Leçon :** les attestations CCI confirment qu'une personne WAS agent en 2023, pas qu'elle EST encore en poste en 2026. Seul le non-bounce prouve la validité actuelle.
 
 ### Alsace Habitat — agences locales VÉRIFIÉES ✅ (privilégier l'agence, pas le DG)
 ⚠️ **Crise de direction** : Nabil Bennacer (ex-DG) a été **révoqué** par le CA ; Francis Bentz lui a succédé mais la situation reste instable. → **Ne pas écrire au DG** ; viser l'agence du secteur.
