@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 2)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -24,9 +24,10 @@
 2. Rédaction d'un email de candidature personnalisé (n° unique + critères + profil).
 3. **6 brouillons génériques créés** dans Gmail (21/06), prêts à relire et envoyer.
 4. **2 brouillons nominatifs ciblés** : Ophéa (CC Betty Aufsatz + Julien Mattei) + 3F Grand Est (à Myriam Chalmeton).
-5. **3 nouveaux brouillons créés (22/06)** : SEDES Habitat, Habitat de l'Ill (nominatif Dominique Simon), Domial (nominatif Gabriel Humbert DGA).
-6. Recherche approfondie de contacts nominatifs : formats email confirmés pour Ophéa, Habitat de l'Ill, Domial, 3F Grand Est.
-7. Document de contacts complet : voir `bailleurs-sociaux-strasbourg.md`.
+5. **3 nouveaux brouillons créés (22/06 matin)** : SEDES Habitat, Habitat de l'Ill (nominatif Dominique Simon), Domial (nominatif Gabriel Humbert DGA).
+6. **4 nouveaux brouillons créés (22/06 après-midi)** : Alsace Habitat (nominatif Francis Bentz DG), Habitation Moderne (nominatif Virginie Jacob DG), ICF Habitat (nominatif Eric Suarez directeur territorial), Foyer Moderne de Schiltigheim (fms@).
+7. Recherche approfondie de contacts nominatifs : formats email confirmés pour Ophéa, Habitat de l'Ill, Domial, ICF Habitat, 3F Grand Est.
+8. Document de contacts complet : voir `bailleurs-sociaux-strasbourg.md`.
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -40,15 +41,19 @@
 | 1b | **Domial (nominatif)** ⭐ | g.humbert@domial.fr + CC crc@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 2 | Habitat de l'Ill (générique) | accueil@habitatdelill.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 2b | **Habitat de l'Ill (nominatif)** ⭐ | dominique.simon@habitatdelill.fr + CC accueil@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
-| 3 | ICF Habitat Nord-Est | icfnordest.alsace-lorraine@icfhabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 3 | ICF Habitat Nord-Est (générique) | icfnordest.alsace-lorraine@icfhabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 3b | **ICF Habitat (nominatif)** ⭐ | eric.suarez@icfhabitat.fr + CC emmanuelle.rosenstiehl@ + icfnordest@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 4 | 3F Grand Est (générique) | contact@groupe3f.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 4b | **3F Grand Est (nominatif)** ⭐ | myriam.chalmeton@groupe3f.fr + CC contact@ | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 5 | Alsace Habitat | contact@alsacehabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 5 | Alsace Habitat (générique) | contact@alsacehabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 5b | **Alsace Habitat (nominatif)** ⭐ | f.bentz@alsacehabitat.fr + CC contact@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 6 | Ophéa (générique) | direction@ophea.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 6b | **Ophéa (nominatif)** ⭐ | direction@ophea.fr + CC betty.aufsatz@ + julien.mattei@ | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 7 | **Habitation Moderne** ⭐ | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 7 | Habitation Moderne (générique) | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 7b | **Habitation Moderne (nominatif)** ⭐ | v.jacob@habitationmoderne.org + CC habmod@ + candidature@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 9 | **SEDES Habitat** (Coop. + Batigère) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
 - **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
@@ -130,10 +135,25 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 | Damien Tourneur | Directeur général | `d.tourneur@domial.fr` | 🔶 format probable |
 | Mathias Perriot | Directeur général délégué | `m.perriot@domial.fr` | 🔶 format probable |
 
+### ICF Habitat Nord-Est — format `prenom.nom@icfhabitat.fr` ✅ VÉRIFIÉ
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Eric Suarez** | Directeur territorial Alsace-Lorraine | `eric.suarez@icfhabitat.fr` | ✅ vérifié (source officielle) |
+| **Emmanuelle Rosenstiehl** | Déléguée territoriale | `emmanuelle.rosenstiehl@icfhabitat.fr` | ✅ vérifié |
+| Véronique Sonzogni | Responsable clientèle | `veronique.sonzogni@icfhabitat.fr` | ✅ vérifié |
+
+### Foyer Moderne de Schiltigheim
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Sébastien EHRET** | Directeur général (depuis mars 2022) | boîte générique `fms@foyer-moderne.com` | ✅ |
+| — | Service location | `fms@foyer-moderne.com` | ✅ vérifié (site) |
+
+> ℹ️ Foyer Moderne gère +1 500 logements sociaux à Schiltigheim — secteur de votre employeur. Format email staff non public.
+
 ### Noms connus mais format NON confirmé (⚠️ boîte générique + « À l'attention de »)
 | Bailleur | Personne | Fonction | Indice format |
 |----------|----------|----------|---------------|
-| Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` → probable `f.bentz@alsacehabitat.fr` |
+| Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` → probable `f.bentz@alsacehabitat.fr` (brouillon créé) |
 
 **Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com` · SEDES Habitat = `info@sedeshabitat.fr`.
 
@@ -158,10 +178,10 @@ C'est la méthode que les bailleurs préfèrent (dossier certifié par l'État, 
 ## 🔁 Checklist avant envoi
 1. [ ] Supprimer les brouillons en double + le « TEST » (garder uniquement les brouillons contenant le **lien DossierFacile**).
 2. [x] ~~Ajouter le lien DossierFacile~~ — **fait** (inséré dans tous les brouillons).
-3. [ ] Envoyer les **12 brouillons** (6 génériques + 3 nominatifs ciblés + SEDES + 2 autres nominatifs) et **cocher la date** dans le tableau.
-   - ⭐ **Priorité nominatif** : envoyer d'abord les brouillons « b » (nominatifs), PAS les génériques doublons.
-   - Pour Ophéa, Domial, Habitat de l'Ill, 3F : envoyer **soit** le générique **soit** le nominatif (pas les deux).
-4. [ ] Traiter les 5 bailleurs sans email via leur **formulaire** (copier-coller le modèle) : Batigère, OPUS 67, CDC Habitat, Vilogia + signaler que SEDES est désormais sous Batigère.
+3. [ ] Envoyer les **brouillons** et **cocher la date** dans le tableau.
+   - ⭐ **Stratégie** : pour chaque bailleur avec doublon générique + nominatif, envoyer **uniquement le nominatif** (lignes « b »).
+   - **16 brouillons au total** dont 8 nominatifs/ciblés ⭐ : Ophéa, 3F, Domial, Habitat de l'Ill, Alsace Habitat, Habitation Moderne, ICF Habitat, + Foyer Moderne + SEDES (génériques seuls = pas de doublon nominatif).
+4. [ ] Traiter les 5 bailleurs sans email via leur **formulaire** : Batigère (note : SEDES est désormais sous Batigère), OPUS 67, CDC Habitat, Vilogia, Socolopo/SEDES (formulaire en plus du mail).
 5. [ ] Vérifier que la **demande en ligne** reste **complète** sur [demandedelogement-alsace.fr](https://www.demandedelogement-alsace.fr/imhowebGP67/).
 6. [ ] **Relancer** ~3 semaines après si pas de réponse.
 7. [ ] **Renouveler** la demande avant le **06/06/2027**.
