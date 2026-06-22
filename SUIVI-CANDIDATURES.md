@@ -58,6 +58,7 @@
 | ~~9c/9d~~ | ~~SEDES fullhardt@ / ciesla@sedeshabitat.fr~~ | ❌ **ADRESSES MORTES** — ne pas envoyer | — | — | |
 | **9e** ⭐⭐⭐ | **SEDES — Forêt-Noire (76 av.) [adresse sûre]** | **contactsedeshabitat@batigere.fr** + CC info@sedeshabitat.fr | 🟡 Brouillon prêt (adresse valide ✅) | ☐ | ☐ | |
 | 9f | SEDES — Forêt-Noire (nominatif DG) | michel.ciesla@batigere.fr + CC contactsedeshabitat@batigere.fr | 🟡 Brouillon prêt (⚠️ format probable, peut rebondir) | ☐ | ☐ | |
+| **9g** ⭐⭐⭐ | **SEDES/Batigère — Forêt-Noire [MEILLEURE ADRESSE]** | **agence-strasbourg@batigere.fr** + CC contactsedeshabitat@batigere.fr | 🟡 Brouillon prêt (adresse candidatures VÉRIFIÉE ✅) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
@@ -136,9 +137,12 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 **✅ Adresses ACTUELLES valides :**
 | Adresse | Usage | Fiabilité |
 |---------|-------|-----------|
+| **`agence-strasbourg@batigere.fr`** ⭐⭐⭐ | **Candidature locative — agence Batigère/SEDES Strasbourg** | ✅ **VÉRIFIÉ** (adresse officielle candidatures) |
 | **`contactsedeshabitat@batigere.fr`** ⭐ | Contact SEDES officiel (publié 2026) | ✅ vérifié (convocation AG 2026) |
 | `info@sedeshabitat.fr` | Boîte générique site (probablement maintenue) | 🔶 à confirmer |
-| Tél. **03 90 20 44 50** / 03 90 20 44 59 | 27 av. de l'Europe, 67012 Strasbourg | ✅ |
+| Agence Batigère Strasbourg | 14 rue Edmond Michelet, CS 30234, 67089 Strasbourg | ☎ **03 88 52 88 00** |
+| SEDES accueil | 27 av. de l'Europe, 67012 Strasbourg | ☎ 03 90 20 44 50 |
+| Portail candidats / locataires | louer.batigere.fr · dclic.batigere.fr | ✅ |
 
 **Format Batigère = `prenom.nom@batigere.fr` (84,1% — vérifié RocketReach).**
 
@@ -148,10 +152,15 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 **Batigère Habitat — Délégation Territoriale Alsace & Agence de Strasbourg**
 📍 14 rue Edmond Michelet, CS 30234, 67089 Strasbourg · ☎ **03 87 71 11 11**
 
-**Dirigeants connus (nominatif format probable `prenom.nom@batigere.fr` 🔶) :**
+**Personnes SEDES identifiées (docs officiels) — format probable `prenom.nom@batigere.fr` (84%) 🔶 :**
 | Personne | Fonction | Email probable | Fiabilité |
 |----------|----------|----------------|-----------|
 | **Michel CIESLA** | DG SEDES Habitat | `michel.ciesla@batigere.fr` | 🔶 format probable (brouillon créé) |
+| **Angélique LALOT** | Contact marchés/admin (récent 2024-25) | `angelique.lalot@batigere.fr` *(ou lalot@sedeshabitat.fr vu en 2024)* | 🔶 |
+| **Lila CHEBBOUB** | Directrice (communication / DGA) | `lila.chebboub@batigere.fr` | 🔶 |
+| **Valérie VOLLMER** | Administratif / marchés | `valerie.vollmer@batigere.fr` | 🔶 |
+| **Ali BEN ZINA** | Correspondant technique | `ali.benzina@batigere.fr` | 🔶 |
+| ~~Rohmer~~ / ~~Fullhardt~~ | Gestion locative (2020) | ⚠️ prénoms inconnus + statut post-fusion incertain | ⚪ |
 | Sébastien TILIGNAC | DG Batigère Habitat | `sebastien.tilignac@batigere.fr` | 🔶 format probable |
 
 > ⚠️ Ces 2 adresses sont **probables (84%)** mais **non confirmées** — risque de rebond comme pour fullhardt@. La seule adresse **certaine** reste `contactsedeshabitat@batigere.fr`.
