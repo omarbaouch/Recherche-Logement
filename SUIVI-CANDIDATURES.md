@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 11 — **48 brouillons agences privées au total** : +7 supplémentaires : Clauss Poincaré, Appart Alsace Esplanade, Rohanne ⭐, EGTI ⭐, Claude Gestion, B&S Immobilier, Synchro-Immo)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 12 — **55 brouillons agences privées au total** : +7 nouveaux : Orpi Cronenbourg, IMBS Mundolsheim, Home Agency Schiltigheim ⭐⭐, Excelimo Schiltigheim ⭐⭐, Orpi MyHome Schiltigheim ⭐, Laforêt Schiltigheim, HNB Bischheim ⭐)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -33,6 +33,7 @@
 11. **13 brouillons SUPPLÉMENTAIRES (22/06 nuit — recherche approfondie)** : Stéphane Plaza Neudorf/Illkirch, L'Agence Strasbourg (Meyer), L'Adresse (Pacquelet), ASI Meinau ⭐⭐ (Petitpoisson), Bintz Neudorf ⭐⭐, Orpi Illkirch Résidence 2000 ⭐, Nestenn Illkirch ⭐, Laforêt Illkirch ⭐ (P.Bury), Strasbourg Immobilier Meinau (Haslé), Francis Fischer Meinau, Hédoniste Montagne Verte ⭐, Immobilière Zimmermann (Schutz), INNOVIMMO Orangerie ⭐ (Welker).
 12. **18 brouillons SUPPLÉMENTAIRES (22/06 nuit 2 — recherche élargie)** : Pluriel Immo (Sellam), Chevreux (Krutenau), Clauss Cronenbourg ✓, Boulle Neudorf ⭐ (Stéphanie LE MANACH gestion), Orpi Calleris (Schuller), Laforêt Orangerie ✓, R Immo Orangerie (Rossignol), B2W Centre (Weill), Enyo&Gaïa (Bodin+Lemaitre), Beausite ⭐⭐ (Dierstein nominatif), INNOVEO Robertsau (Sabourin), GroupImmo (Freyburger location 🔶), C21 Weibel (Cronenbourg), CCLV Immo (Meyer admin. biens), Raphaël Immo (Grosse), GIPA Centre (Weber PDG), A&K Immobilier Illkirch ⭐ (Krause), Orpi Centre Gare (Weiss 🔶).
 13. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 3 — administrateurs de biens + indépendants)** : Clauss Poincaré 🔶, Appart Alsace Esplanade (Schreiber), Rohanne ⭐ (N.Meyer admin. biens — 4 quai Sable), EGTI ⭐ (Lawson+Schramm — 7 bd Wilson — 20 ans admin. biens), Claude Gestion (N.Claude wanadoo — 12 bd Edwards), B&S Immobilier (Bernheim famille — 5 av. Paix — 300 biens), Synchro-Immo (contact67 — 11 rue Marais Vert — gestion locative privée + syndic).
+14. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 4 — Cronenbourg + Schiltigheim/Bischheim)** : Orpi Cronenbourg (Bierry — 40 rte Mittelhausbergen), IMBS (Mundolsheim — couvre Strasbourg), Home Agency Schiltigheim ⭐⭐ (Hertrich nominatif — depuis 1987), Excelimo Schiltigheim ⭐⭐ (contact@ — ~100 biens gérés), Orpi MyHome Schiltigheim ⭐ (myhome@ — 26 conseillers), Laforêt Schiltigheim (schiltigheim@ — 8 collaborateurs), HNB Bischheim ⭐ (contact@ — couvre Bischheim/Schiltigheim/Mundolsheim).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -126,6 +127,13 @@
 | 31a | Claude Gestion Immobilière (nominatif) | `nadine.claude@wanadoo.fr` (Nadine CLAUDE présidente, 12 Bd Prés Edwards, 67000 — admin. de biens) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 31b | B&S Immobilier (famille Bernheim — 300 biens) | `contact@bsimmobilier.net` (Céline BERNHEIM-LOEB + Jean-Sébastien BERNHEIM, 5 av. de la Paix, 67000) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 32a | Synchro-Immo (Procivis Alsace) | `contact67@synchro-immo.fr` (11 rue Marais Vert, 67000 — gestion locative privée + syndic) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 33a | Orpi Immobilière Cronenbourg | `immocronenbourg@orpi.com` (Pascale BIERRY gérante, 40 rte Mittelhausbergen, 67200 — Cronenbourg) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 33b | IMBS Immobilière Services (Mundolsheim) | `secretariat@imbs-immo.com` (4 rue Industrie, 67450 Mundolsheim — couvre Strasbourg + Alsace) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **34a** | **Home Agency Schiltigheim** ⭐⭐ (depuis 1987) | `nicolas.hertrich@home-agency.fr` (Nicolas HERTRICH, 30 rue Principale, 67300 Schiltigheim — proche employeur) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **34b** | **EXCELIMO Schiltigheim** ⭐⭐ (~100 biens gérés) | `contact@excelimo.fr` (63 rte du Gal de Gaulle, 67300 Schiltigheim — gestion locative + location) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **35a** | **Orpi MyHome Schiltigheim** ⭐ (26 conseillers) | `myhome@orpi.com` (3 rue de Lattre de Tassigny, 67300 Schiltigheim — vente/location/gestion) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 35b | Laforêt Schiltigheim (8 collaborateurs) | `schiltigheim@laforet.com` (103 rte de Bischwiller, 67300 Schiltigheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **36a** | **HNB Immobilier Bischheim** ⭐ (FNAIM) | `contact@hnb.immo` (26 av. de Périgueux, 67800 Bischheim — couvre Bischheim/Schiltigheim/Mundolsheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
 
 ### 🏢 Agences privées — sans email direct (formulaire uniquement)
 
