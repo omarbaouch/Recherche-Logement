@@ -52,7 +52,8 @@
 | 7 | Habitation Moderne (générique) | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 7b | **Habitation Moderne (nominatif)** ⭐ | v.jacob@habitationmoderne.org + CC habmod@ + candidature@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 9 | **SEDES Habitat** (Coop. + Batigère) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 9 | SEDES Habitat (générique) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 9b | **SEDES Habitat (nominatif)** ⭐⭐ | fullhardt@sedeshabitat.fr (Illkirch) + CC rohmer@ + ciesla@ + info@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
@@ -120,13 +121,22 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 > ℹ️ Ahmed Koujil préside la commission d'attribution — c'est un administrateur (élu), probablement sans boîte @habitatdelill.fr. Passer par la boîte générique en mentionnant « Commission d'Attribution ».
 
-### SEDES Habitat — format inconnu (rejoint Batigère en avril 2025)
-| Personne | Fonction | Email | Fiabilité |
-|----------|----------|-------|-----------|
-| Michel CIESLA | Directeur général | `info@sedeshabitat.fr` (boîte générique) | ✅ email de contact |
-| Jacques CREPIN | Président du CA | — | ⚪ non public |
+### SEDES Habitat — format `nom@sedeshabitat.fr` ✅ VÉRIFIÉ (nom de famille seul) ⭐⭐
+**Recherche approfondie 22/06 — contacts directs trouvés (emails publiés sur le site SEDES) :**
 
-> ℹ️ SEDES a rejoint le groupe Batigère Habitat en avril 2025 ; le patrimoine est géré conjointement. Contacter aussi Batigère Strasbourg (formulaire).
+| Personne | Fonction | Email | Secteurs gérés | Fiabilité |
+|----------|----------|-------|----------------|-----------|
+| **Fullhardt** ⭐⭐ | **Gestion locative** (LA bonne personne) | `fullhardt@sedeshabitat.fr` | **Illkirch-Graffenstaden**, Q. Vauban, Q. Laiterie, Eckbolsheim, Geispolsheim, La Wantzenau, Lingolsheim | ✅ vérifié (site) |
+| **Rohmer** ⭐⭐ | **Gestion locative** | `rohmer@sedeshabitat.fr` | Stockfeld, Q. **Neuhof**, Q. Poteries, Blaesheim, Hoenheim, Oberschaeffolsheim, Souffelweyersheim | ✅ vérifié (site) |
+| Michel CIESLA | Directeur général | `ciesla@sedeshabitat.fr` | — | 🟢 format vérifié |
+| Ali BEN ZINA | Correspondant technique | `benzina@sedeshabitat.fr` | — | ✅ vérifié |
+| Valérie VOLLMER | (administratif) | `vollmer@sedeshabitat.fr` | — | ✅ vérifié |
+| Bantzhaff | Comptabilité | `bantzhaff@sedeshabitat.fr` | — | ✅ vérifié (site) |
+| Lila CHEBBOUB | Communication/publication | `chebboub@sedeshabitat.fr` · 03 90 20 44 51 | — | 🟢 format vérifié |
+| Jacques CREPIN | Président du CA | — | — | ⚪ non public |
+
+> 🎯 **Fullhardt = contact prioritaire** : c'est la gestionnaire locative du secteur **Illkirch-Graffenstaden** (votre cible n°1). Rohmer couvre Neuhof. Brouillon nominatif créé : TO `fullhardt@` + CC `rohmer@` + `ciesla@` + `info@`.
+> ℹ️ SEDES a rejoint le groupe Batigère Habitat en avril 2025 ; le patrimoine est géré conjointement. Le format email reste `nom@sedeshabitat.fr` (nom de famille uniquement, sans prénom ni point).
 
 ### Domial — format `[initiale].[nom]@domial.fr` 🔶 (RocketReach partiel)
 | Personne | Fonction | Email | Fiabilité |
@@ -155,7 +165,7 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 |----------|----------|----------|---------------|
 | Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` → probable `f.bentz@alsacehabitat.fr` (brouillon créé) |
 
-**Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com` · SEDES Habitat = `info@sedeshabitat.fr`.
+**Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com`, `fms@foyer-moderne.com` · SEDES Habitat = `info@sedeshabitat.fr` + gestion locative directe `fullhardt@` / `rohmer@sedeshabitat.fr`.
 
 > 🧠 **Conseil stratégique :** n'écrivez PAS directement au DG pour une demande de logement — c'est renvoyé au service location et ça dessert la candidature. La bonne méthode :
 > 1. Envoyer à la **boîte générique** (déjà dans vos brouillons) en ajoutant en tête *« À l'attention du service Gestion locative / Attributions »*.
