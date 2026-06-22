@@ -160,6 +160,20 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 > ℹ️ Foyer Moderne gère +1 500 logements sociaux à Schiltigheim — secteur de votre employeur. Format email staff non public.
 
+### AFEDIM Gestion — format `prenom.nom@afedim.fr` 🔶 (RocketReach 60,4 % — 8 formats existants)
+⚠️ **AFEDIM = agence immobilière PRIVÉE** (groupe Crédit Mutuel / CIC), **PAS un bailleur social** : loyers au prix du marché, **aucun plafond de ressources**, pas de numéro unique. Siège : 4 rue Frédéric-Guillaume Raiffeisen, 67000 Strasbourg · 03 88 14 83 20.
+
+| Personne | Fonction | Email | Fiabilité |
+|----------|----------|-------|-----------|
+| **Franck DESCHODT** | Représentant légal / Direction AFEDIM Strasbourg | `franck.deschodt@afedim.fr` | 🔶 format probable |
+| **Marie PAILHÉ** | Responsable d'unité Gestion locative | `marie.pailhe@afedim.fr` | 🔶 format probable |
+| **Clarisse GLOTIN** | Gestionnaire locative | `clarisse.glotin@afedim.fr` | 🔶 format probable |
+| Philippe SCHMITT | Directeur réseau | `philippe.schmitt@afedim.fr` | 🔶 format probable |
+| Axelle LIMOSIN | Responsable unité Gestion sinistre | `axelle.limosin@afedim.fr` | 🔶 (basée Nantes) |
+
+> 🎯 Brouillon créé (recherche locative privée) : TO `clarisse.glotin@` + CC `franck.deschodt@` + `marie.pailhe@`. Objet différent (pas de n° unique car parc privé).
+> ⚠️ Le format `prenom.nom@` n'est fiable qu'à 60 % chez AFEDIM (8 formats coexistent) → si l'email revient en échec, passez par leur **portail / formulaire** ou téléphonez au 03 88 14 83 20. Le plus efficace avec une agence privée reste de **répondre aux annonces** sur afedim.fr.
+
 ### Noms connus mais format NON confirmé (⚠️ boîte générique + « À l'attention de »)
 | Bailleur | Personne | Fonction | Indice format |
 |----------|----------|----------|---------------|
