@@ -56,7 +56,8 @@
 | 9 | SEDES Habitat (générique) | info@sedeshabitat.fr | 🟡 Brouillon prêt (à confirmer) | ☐ | ☐ | |
 | ~~9b~~ | ~~SEDES fullhardt@sedeshabitat.fr~~ | ❌ **ADRESSE MORTE (a rebondi)** — ne pas envoyer | — | — | |
 | ~~9c/9d~~ | ~~SEDES fullhardt@ / ciesla@sedeshabitat.fr~~ | ❌ **ADRESSES MORTES** — ne pas envoyer | — | — | |
-| **9e** ⭐⭐⭐ | **SEDES — Forêt-Noire (76 av.) [CORRIGÉ]** | **contactsedeshabitat@batigere.fr** + CC info@sedeshabitat.fr | 🟡 Brouillon prêt (adresse valide ✅) | ☐ | ☐ | |
+| **9e** ⭐⭐⭐ | **SEDES — Forêt-Noire (76 av.) [adresse sûre]** | **contactsedeshabitat@batigere.fr** + CC info@sedeshabitat.fr | 🟡 Brouillon prêt (adresse valide ✅) | ☐ | ☐ | |
+| 9f | SEDES — Forêt-Noire (nominatif DG) | michel.ciesla@batigere.fr + CC contactsedeshabitat@batigere.fr | 🟡 Brouillon prêt (⚠️ format probable, peut rebondir) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
@@ -139,7 +140,22 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 | `info@sedeshabitat.fr` | Boîte générique site (probablement maintenue) | 🔶 à confirmer |
 | Tél. **03 90 20 44 50** / 03 90 20 44 59 | 27 av. de l'Europe, 67012 Strasbourg | ✅ |
 
-**Format Batigère = `prenom.nom@batigere.fr` (82,4%)** — mais je n'ai PAS le prénom de Fullhardt ni la garantie qu'elle est toujours en poste après la fusion → **ne pas deviner** (risque de rebond). Passer par `contactsedeshabitat@batigere.fr` + tél.
+**Format Batigère = `prenom.nom@batigere.fr` (84,1% — vérifié RocketReach).**
+
+**🔬 Recherche approfondie (22/06) — résultat :** les noms des gestionnaires/chargés de clientèle ACTUELS de SEDES-Batigère Strasbourg ne sont **pas publiés** (RGPD + réorganisation post-fusion). Sources épuisées : site SEDES (équipes = seulement le conseil), RocketReach (aucun nom gestion locative Strasbourg), marchés publics (seul `vollmer@sedeshabitat.fr`, daté **2019**), rapport annuel Batigère 2024 (seulement la direction nationale).
+
+**Agence physique qui gère désormais le patrimoine SEDES :**
+**Batigère Habitat — Délégation Territoriale Alsace & Agence de Strasbourg**
+📍 14 rue Edmond Michelet, CS 30234, 67089 Strasbourg · ☎ **03 87 71 11 11**
+
+**Dirigeants connus (nominatif format probable `prenom.nom@batigere.fr` 🔶) :**
+| Personne | Fonction | Email probable | Fiabilité |
+|----------|----------|----------------|-----------|
+| **Michel CIESLA** | DG SEDES Habitat | `michel.ciesla@batigere.fr` | 🔶 format probable (brouillon créé) |
+| Sébastien TILIGNAC | DG Batigère Habitat | `sebastien.tilignac@batigere.fr` | 🔶 format probable |
+
+> ⚠️ Ces 2 adresses sont **probables (84%)** mais **non confirmées** — risque de rebond comme pour fullhardt@. La seule adresse **certaine** reste `contactsedeshabitat@batigere.fr`.
+> 📞 **Le plus fiable pour un nom : appeler le 03 90 20 44 50 (SEDES) ou 03 87 71 11 11 (agence Batigère Strasbourg)** et demander le chargé de clientèle/gestionnaire du secteur Vauban-Forêt-Noire.
 
 | Ancien nom (2020, ⚠️ MORT) | Secteurs gérés à l'époque |
 |----------|----------------|
