@@ -55,6 +55,8 @@
 | 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 9 | SEDES Habitat (générique) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 9b | **SEDES Habitat (nominatif)** ⭐⭐ | fullhardt@sedeshabitat.fr (Illkirch) + CC rohmer@ + ciesla@ + info@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 9c | **SEDES — Forêt-Noire (76 av.)** ⭐⭐⭐ | fullhardt@sedeshabitat.fr + CC ciesla@ + info@ | 🟡 Brouillon prêt (ciblé résidence) | ☐ | ☐ | |
+| 9d | **SEDES — Direction générale** | ciesla@sedeshabitat.fr + CC fullhardt@ + info@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
@@ -141,7 +143,9 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 | Lila CHEBBOUB | Communication/publication | `chebboub@sedeshabitat.fr` · 03 90 20 44 51 | — | 🟢 format vérifié |
 | Jacques CREPIN | Président du CA | — | — | ⚪ non public |
 
-> 🎯 **Fullhardt = contact prioritaire** : c'est la gestionnaire locative du secteur **Illkirch-Graffenstaden** (votre cible n°1). Rohmer couvre Neuhof. Brouillon nominatif créé : TO `fullhardt@` + CC `rohmer@` + `ciesla@` + `info@`.
+> 🎯 **Fullhardt = contact prioritaire** : c'est la gestionnaire locative du secteur **Illkirch-Graffenstaden** ET du **Quartier Vauban / résidences Forêt-Noire** (votre cible n°1). Rohmer couvre Neuhof. Brouillons créés : nominatif général + ciblé Forêt-Noire.
+>
+> 🏠 **76 avenue de la Forêt-Noire = résidences Forêt-Noire I & II** (gérées par Fullhardt, Quartier Vauban) : **163 + 95 logements** dont **75 T2** (43 + 32) → excellent potentiel pour votre recherche T2 min. 40 m². Gardiennage sur place. Brouillon dédié 9c créé (objet mentionnant explicitement le 76 av. de la Forêt-Noire et l'intérêt prioritaire pour ces résidences).
 > ℹ️ SEDES a rejoint le groupe Batigère Habitat en avril 2025 ; le patrimoine est géré conjointement. Le format email reste `nom@sedeshabitat.fr` (nom de famille uniquement, sans prénom ni point).
 
 ### Domial — format `[initiale][nom]@domial.fr` ✅ VÉRIFIÉ (SANS point — 92,7%)
