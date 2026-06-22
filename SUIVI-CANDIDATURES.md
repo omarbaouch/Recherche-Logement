@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 13 — **63 brouillons agences privées au total** : +8 nouveaux : ITA Hœnheim, Distel Mundolsheim, Nestenn Lingolsheim, CG Immobilier, AMC Immo Eckbolsheim, Clauss Lingolsheim 🔶, Laforêt Lingolsheim, Origami ⭐)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 14 — **67 brouillons agences privées au total** : +4 nouveaux : Sogestra Schiltigheim ⭐⭐⭐, CEGIP Strasbourg, Wodling Immobilier, Alsace Résidence Ostwald ⭐)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -35,6 +35,7 @@
 13. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 3 — administrateurs de biens + indépendants)** : Clauss Poincaré 🔶, Appart Alsace Esplanade (Schreiber), Rohanne ⭐ (N.Meyer admin. biens — 4 quai Sable), EGTI ⭐ (Lawson+Schramm — 7 bd Wilson — 20 ans admin. biens), Claude Gestion (N.Claude wanadoo — 12 bd Edwards), B&S Immobilier (Bernheim famille — 5 av. Paix — 300 biens), Synchro-Immo (contact67 — 11 rue Marais Vert — gestion locative privée + syndic).
 14. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 4 — Cronenbourg + Schiltigheim/Bischheim)** : Orpi Cronenbourg (Bierry — 40 rte Mittelhausbergen), IMBS (Mundolsheim — couvre Strasbourg), Home Agency Schiltigheim ⭐⭐ (Hertrich nominatif — depuis 1987), Excelimo Schiltigheim ⭐⭐ (contact@ — ~100 biens gérés), Orpi MyHome Schiltigheim ⭐ (myhome@ — 26 conseillers), Laforêt Schiltigheim (schiltigheim@ — 8 collaborateurs), HNB Bischheim ⭐ (contact@ — couvre Bischheim/Schiltigheim/Mundolsheim).
 15. **8 brouillons SUPPLÉMENTAIRES (22/06 nuit 5 — Lingolsheim + communes nord/ouest)** : ITA Immobilier Hœnheim (ita@ita-immobilier.fr), Distel Mundolsheim FNAIM (contact@distelimmobilier.fr), Nestenn Lingolsheim (lingolsheim@nestenn.com), CG Immobilier Strasbourg (info@cgimmo.com — gestion locative), AMC Immo Eckbolsheim (contact@amc-immo.fr — Martino gérant), Clauss Lingolsheim 🔶 (lingolsheim@christelleclauss.com), Laforêt Lingolsheim (lingolsheim@laforet.com), Origami Lingolsheim ⭐ (info@origami.immo — 4.9/5).
+16. **4 brouillons SUPPLÉMENTAIRES (22/06 — gestionnaires de biens + FNAIM communes sud/ouest)** : Sogestra Schiltigheim ⭐⭐⭐ (contact@sogestra.fr — 6 000+ unités gérées), CEGIP Strasbourg FNAIM (cegip@cegip.fr — SERS, 130+ copropriétés), Wodling Immobilier (immo.wodling@orange.fr — av. de la Paix Simone Veil), Alsace Résidence Ostwald ⭐ (contact@alsaceresidence.fr — FNAIM, 40+ ans, Oswald Olivier gérant).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -143,6 +144,10 @@
 | 39b | Christelle Clauss — Lingolsheim | `lingolsheim@christelleclauss.com` 🔶 (28 rue du Maréchal Foch, 67380 — vente/location/gestion/syndic) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 40a | Laforêt Lingolsheim | `lingolsheim@laforet.com` (16 rue du Maréchal Foch, 67380 Lingolsheim — 8 collaborateurs) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | **40b** | **Origami Immobilier Lingolsheim** ⭐ (4.9/5) | `info@origami.immo` (112 rue du Maréchal Foch, 67380 — pôle Gestion & Location, 25 ans d'exp.) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **41a** | **Sogestra Schiltigheim** ⭐⭐⭐ (6 000+ unités gérées) | `contact@sogestra.fr` (6 rue de Lisbonne, 67300 Schiltigheim — syndic + gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 41b | CEGIP Strasbourg (FNAIM — SERS) | `cegip@cegip.fr` (17 rte du Rhin + 76 av. des Vosges — 130+ copropriétés, 35+ ans) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 42a | Wodling Immobilier Strasbourg | `immo.wodling@orange.fr` (5 av. de la Paix Simone Veil, Strasbourg — location + gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **42b** | **Alsace Résidence Ostwald** ⭐ (FNAIM, 40+ ans) | `contact@alsaceresidence.fr` (132 rue Gén. Leclerc, 67540 Ostwald — Oswald Olivier — gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
 
 ### 🏢 Agences privées — sans email direct (formulaire uniquement)
 
