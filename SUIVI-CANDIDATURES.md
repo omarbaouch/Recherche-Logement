@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 7 — bounces 11c traités ; adresses AFEDIM valides : sonia.grimmer ✅ clarisse.glotin ✅ emmanuel.grondin ✅)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 8 — **10 nouveaux brouillons agences privées** : Orpi Neudorf ⭐, Orpi Bartholdi, Citya Ségesca, Foncia, Square Habitat, Century 21 Etoile ⭐⭐⭐, Laforêt, ERA Mathis ⭐⭐, Christelle Clauss Orangerie, Christelle Clauss Krutenau)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -28,6 +28,8 @@
 6. **4 nouveaux brouillons créés (22/06 après-midi)** : Alsace Habitat (nominatif Francis Bentz DG), Habitation Moderne (nominatif Virginie Jacob DG), ICF Habitat (nominatif Eric Suarez directeur territorial), Foyer Moderne de Schiltigheim (fms@).
 7. Recherche approfondie de contacts nominatifs : formats email confirmés pour Ophéa, Habitat de l'Ill, Domial, ICF Habitat, 3F Grand Est.
 8. Document de contacts complet : voir `bailleurs-sociaux-strasbourg.md`.
+9. **5 brouillons agences PRIVÉES (22/06 après-midi)** : Orpi Neudorf (nominatif dbierryneudorf), Orpi Bartholdi (gbeutel), Citya Ségesca (nominatif jcrehm directeur), Foncia (strasbourg-location65u), Square Habitat (nominatif justine.bohlandt).
+10. **5 brouillons agences PRIVÉES supplémentaires (22/06 soir)** : Century 21 Etoile Neudorf ⭐⭐⭐ (etoile@century21france.fr — couvre Neudorf/Meinau/Esplanade 30 ans), Laforêt Strasbourg (strasbourg@laforet.com), ERA Mathis Meinau ⭐⭐ (mathis@erafrance.com CC malteries@), Christelle Clauss Orangerie (strasbourg.orangerie@), Christelle Clauss Krutenau (strasbourg.krutenau@).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -64,6 +66,37 @@
 | **11b** ⭐⭐ | **AFEDIM (nominatif ciblé — Resp. Pole Clients)** | ~~marianne.gallocher@~~ ❌ + CC ~~franck.deschodt@~~ ❌ + **sonia.grimmer@ ✅ + clarisse.glotin@ ✅** | ✅ Partiellement livré (2/4 valides) | 22/06/2026 | ☐ | 2 bounces signalés |
 | **11c** | **AFEDIM (agents CCI 2023)** | ~~magali.morin@~~ ❌ + CC ~~aude.coquillon@~~ ❌ + **emmanuel.grondin@ ✅** + **sonia.grimmer@ ✅** + **clarisse.glotin@ ✅** | ✅ Partiellement livré (3/5 valides) | 22/06/2026 | ☐ | 2 bounces |
 | **11d** | **AFEDIM (Enclos + Coutin — test adresses)** | gregory.enclos@ + CC ladislas.coutin@ + sonia.grimmer@ ✅ + clarisse.glotin@ ✅ | 🟡 Brouillon prêt (22/06 maj7) | ☐ | ☐ | |
+
+---
+
+### 🏢 Agences immobilières PRIVÉES — brouillons créés (22/06)
+
+> ⚠️ Ces agences sont des agences **privées** (marché libre) : loyers au prix du marché, **aucun plafond de ressources**, **ne pas mentionner le NUD** (numéro logement social — hors sujet pour elles).
+
+| # | Agence | Email | Statut | Date d'envoi | Relance | Réponse |
+|---|--------|-------|--------|--------------|---------|---------|
+| 12a | **Orpi Neudorf** ⭐⭐ (spécialiste secteur !) | `dbierryneudorf@orpi.com` (D. Bierry, nominatif) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 12b | Orpi Bartholdi | `gbeutel@orpi.com` (G. Beutel, nominatif) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 12c | **Citya Ségesca** ⭐ (nominatif directeur) | `jcrehm@citya.com` (Jean-Claude REHM, Directeur) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 12d | Foncia Strasbourg | `strasbourg-location65u@foncia.fr` + CC `strasbourg@foncia.fr` | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 12e | Square Habitat | `justine.bohlandt@squarehabitat.fr` (nominatif) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **13a** | **Century 21 Etoile Neudorf** ⭐⭐⭐ | `etoile@century21france.fr` (69 route du Polygone, 67100 — spécialiste Neudorf/Meinau/Esplanade depuis 30 ans) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 13b | Laforêt Strasbourg | `strasbourg@laforet.com` (41 rue Finkwiller — dir. Christian ZEMKE) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **13c** | **ERA Agence Mathis** ⭐⭐ (Meinau/Neudorf) | `mathis@erafrance.com` (252 av. Colmar) + CC `malteries@erafrance.com` (Schiltigheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 14a | Christelle Clauss — Orangerie | `strasbourg.orangerie@christelleclauss.com` 🔶 (format probable — 60 Bd de la Marne) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 14b | Christelle Clauss — Krutenau/Esplanade | `strasbourg.krutenau@christelleclauss.com` + CC `strasbourg.bourse@christelleclauss.com` 🔶 (16 rue Peirotes) | 🟡 Brouillon prêt | ☐ | ☐ | |
+
+### 🏢 Agences privées — sans email direct (formulaire uniquement)
+
+| Agence | Adresse | Démarche | Note |
+|--------|---------|----------|------|
+| Lamy/Nexity Strasbourg | 2 quai Kléber / 3 Place de Haguenau, 67000 | [Formulaire site](https://www.nexity.fr/agence-immobiliere/strasbourg/strasbourg-kleber/COM74) · ☎ 03 88 37 57 30 | Thomas NEFF directeur → maintenant chez Evoriel |
+| Evoriel Strasbourg (ex-Lamy + Immoval) | — | [Formulaire evoriel.fr](https://www.evoriel.fr/) | Domaine `@evoriel.fr` ; a racheté Immoval (1972), Scheuer, Schwartz, Regency |
+| Immoval Strasbourg (réseau Oralia/Evoriel) | — | [Formulaire immoval.com](https://www.immoval.com/nous-contacter/) ☎ 03 88 39 81 39 | Référence Strasbourg depuis 1972 ; désormais groupe Evoriel |
+| Guy Hoquet Strasbourg | 2 rue Jules Rathgeber, 67100 | [Site guy-hoquet.com](https://www.guy-hoquet.com/) ☎ visible sur site | Aucun email trouvé — formulaire uniquement |
+| Christelle Clauss (autres agences) | Poincaré (19 Bd Poincaré) · Cronenbourg (52 rte Oberhausbergen) | [Formulaire christelleclauss.com](https://www.christelleclauss.com/contact) | Format probable : `strasbourg.poincare@` / `strasbourg.cronenbourg@christelleclauss.com` |
+
+---
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
 - **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
@@ -290,7 +323,9 @@ C'est la méthode que les bailleurs préfèrent (dossier certifié par l'État, 
 2. [x] ~~Ajouter le lien DossierFacile~~ — **fait** (inséré dans tous les brouillons).
 3. [ ] Envoyer les **brouillons** et **cocher la date** dans le tableau.
    - ⭐ **Stratégie** : pour chaque bailleur avec doublon générique + nominatif, envoyer **uniquement le nominatif** (lignes « b »).
-   - **16 brouillons au total** dont 8 nominatifs/ciblés ⭐ : Ophéa, 3F, Domial, Habitat de l'Ill, Alsace Habitat, Habitation Moderne, ICF Habitat, + Foyer Moderne + SEDES (génériques seuls = pas de doublon nominatif).
+   - **Bailleurs sociaux : 16 brouillons** dont 8 nominatifs/ciblés ⭐ : Ophéa, 3F, Domial, Habitat de l'Ill, Alsace Habitat, Habitation Moderne, ICF Habitat, + Foyer Moderne + SEDES.
+   - **Agences PRIVÉES : 10 brouillons** (lignes 12a→14b) : Orpi Neudorf ⭐⭐, Orpi Bartholdi, Citya Ségesca, Foncia, Square Habitat, **Century 21 Etoile ⭐⭐⭐**, Laforêt, **ERA Mathis ⭐⭐**, Christelle Clauss Orangerie, Christelle Clauss Krutenau.
+   - ⚠️ Les emails 14a/14b (Christelle Clauss) sont au format **probable 🔶** — à tester pour rebonds.
 4. [ ] Traiter les 5 bailleurs sans email via leur **formulaire** : Batigère (note : SEDES est désormais sous Batigère), OPUS 67, CDC Habitat, Vilogia, Socolopo/SEDES (formulaire en plus du mail).
 5. [ ] Vérifier que la **demande en ligne** reste **complète** sur [demandedelogement-alsace.fr](https://www.demandedelogement-alsace.fr/imhowebGP67/).
 6. [ ] **Relancer** ~3 semaines après si pas de réponse.
