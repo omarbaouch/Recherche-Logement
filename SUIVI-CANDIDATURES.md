@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 2)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 3 — formats vérifiés RocketReach)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -38,7 +38,7 @@
 | # | Bailleur | Email | Statut | Date d'envoi | Relance prévue (~3 sem.) | Réponse |
 |---|----------|-------|--------|--------------|--------------------------|---------|
 | 1 | Domial (générique) | crc@domial.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 1b | **Domial (nominatif)** ⭐ | g.humbert@domial.fr + CC crc@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 1b | **Domial (nominatif)** ⭐ | ghumbert@domial.fr + CC crc@ *(format corrigé sans point ✅)* | 🟡 Brouillon prêt (corrigé) | ☐ | ☐ | |
 | 2 | Habitat de l'Ill (générique) | accueil@habitatdelill.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 2b | **Habitat de l'Ill (nominatif)** ⭐ | dominique.simon@habitatdelill.fr + CC accueil@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 3 | ICF Habitat Nord-Est (générique) | icfnordest.alsace-lorraine@icfhabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
@@ -46,15 +46,17 @@
 | 4 | 3F Grand Est (générique) | contact@groupe3f.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 4b | **3F Grand Est (nominatif)** ⭐ | myriam.chalmeton@groupe3f.fr + CC contact@ | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 5 | Alsace Habitat (générique) | contact@alsacehabitat.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 5b | **Alsace Habitat (nominatif)** ⭐ | f.bentz@alsacehabitat.fr + CC contact@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 5b | **Alsace Habitat (agence Sud)** ⭐ | contact.emssud@alsacehabitat.fr + CC contact@ *(agence du secteur ✅)* | 🟡 Brouillon prêt (corrigé) | ☐ | ☐ | |
 | 6 | Ophéa (générique) | direction@ophea.fr | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 6b | **Ophéa (nominatif)** ⭐ | direction@ophea.fr + CC betty.aufsatz@ + julien.mattei@ | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 6b | Ophéa (nominatif v1) | direction@ophea.fr + CC betty.aufsatz@ + julien.mattei@ | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 6c | **Ophéa (nominatif v2)** ⭐⭐ | pascal.charpentier@ophea.fr (dir. gestion loc.) + CC julie.denorre@ (agence Neuhof) + betty.aufsatz@ + direction@ | 🟡 Brouillon prêt (le + ciblé) | ☐ | ☐ | |
 | 7 | Habitation Moderne (générique) | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 7b | **Habitation Moderne (nominatif)** ⭐ | v.jacob@habitationmoderne.org + CC habmod@ + candidature@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 9 | SEDES Habitat (générique) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 9b | **SEDES Habitat (nominatif)** ⭐⭐ | fullhardt@sedeshabitat.fr (Illkirch) + CC rohmer@ + ciesla@ + info@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
 **Autres emails de bailleurs/structures trouvés (à exploiter en complément) :**
 - **Amélogis** (coop., plutôt location-accession) : `contact@amelogis.fr`
@@ -85,15 +87,19 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 **Légende :** ✅ vérifié · 🟢 format **vérifié** appliqué à un nom (très fiable) · 🔶 format **probable** (RocketReach) appliqué à un nom (à confirmer) · ⚠️ nom connu mais **format non confirmé** (ne pas deviner — passer par la boîte générique).
 
-### Ophéa — format `prenom.nom@ophea.fr` ✅ VÉRIFIÉ
+### Ophéa — format `prenom.nom@ophea.fr` ✅ VÉRIFIÉ (99,2%)
 | Personne | Fonction | Email | Fiabilité |
 |----------|----------|-------|-----------|
-| **Betty Aufsatz** ⭐ | **Directrice de la Gestion Locative** (LA bonne personne) | `betty.aufsatz@ophea.fr` | 🟢 format vérifié |
+| **Pascal Charpentier** ⭐⭐ | **Directeur de la Gestion locative et de la Proximité** (LA bonne personne) | `pascal.charpentier@ophea.fr` | 🟢 format vérifié (99,2%) |
+| **Julie de Norre** ⭐⭐ | **Cheffe d'agence Neuhof / Directrice territoire Sud** (couvre Neudorf/Meinau/Neuhof) | `julie.denorre@ophea.fr` *(ou julie.de.norre@)* | 🔶 particule « de » à confirmer |
+| Betty Aufsatz ⭐ | Direction Gestion Locative | `betty.aufsatz@ophea.fr` | 🟢 format vérifié |
 | Julien Mattei | Directeur général | `julien.mattei@ophea.fr` | ✅ vérifié (doc officiel) |
-| Viviane Ehrhardt | Dir. Finances/Compta | `viviane.ehrhardt@ophea.fr` | 🟢 |
-| Stéphanie Hochart | DRH | `stephanie.hochart@ophea.fr` | 🟢 |
+| Morgane Paulen | Resp. développement immobilier | `morgane.paulen@ophea.fr` | 🟢 |
+| Jean Malingre | Secrétaire général | `jean.malingre@ophea.fr` | 🟢 |
 
-### Habitation Moderne — format `p.nom@habitationmoderne.org` 🔶 (RocketReach ~63–83 %)
+> 🎯 **Nouveau brouillon Ophéa ⭐⭐** : TO `pascal.charpentier@` (dir. gestion locative) + CC `julie.denorre@` (agence Neuhof = secteur Sud) + `betty.aufsatz@` + `direction@`. C'est le ciblage le plus précis pour vos quartiers Sud.
+
+### Habitation Moderne — format `[initiale].[nom]@habitationmoderne.org` ✅ VÉRIFIÉ (62,7%)
 | Personne | Fonction | Email | Fiabilité |
 |----------|----------|-------|-----------|
 | **Virginie Jacob** | Directrice générale | `v.jacob@habitationmoderne.org` | 🔶 |
@@ -138,12 +144,15 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 > 🎯 **Fullhardt = contact prioritaire** : c'est la gestionnaire locative du secteur **Illkirch-Graffenstaden** (votre cible n°1). Rohmer couvre Neuhof. Brouillon nominatif créé : TO `fullhardt@` + CC `rohmer@` + `ciesla@` + `info@`.
 > ℹ️ SEDES a rejoint le groupe Batigère Habitat en avril 2025 ; le patrimoine est géré conjointement. Le format email reste `nom@sedeshabitat.fr` (nom de famille uniquement, sans prénom ni point).
 
-### Domial — format `[initiale].[nom]@domial.fr` 🔶 (RocketReach partiel)
+### Domial — format `[initiale][nom]@domial.fr` ✅ VÉRIFIÉ (SANS point — 92,7%)
+⚠️ **Correction** : le format est `ghumbert@` (sans point), PAS `g.humbert@`. Ancien brouillon avec point à supprimer.
 | Personne | Fonction | Email | Fiabilité |
 |----------|----------|-------|-----------|
-| **Gabriel Humbert** | Directeur Général Adjoint | `g.humbert@domial.fr` | 🔶 format probable |
-| Damien Tourneur | Directeur général | `d.tourneur@domial.fr` | 🔶 format probable |
-| Mathias Perriot | Directeur général délégué | `m.perriot@domial.fr` | 🔶 format probable |
+| **Gabriel Humbert** | Directeur Général Adjoint | `ghumbert@domial.fr` | 🟢 format vérifié (92,7%) |
+| Damien Tourneur | Directeur général | `dtourneur@domial.fr` | 🟢 format vérifié |
+| Mathias Perriot | Directeur général délégué | `mperriot@domial.fr` | 🟢 format vérifié |
+| Anne Lescure | Directrice des Territoires | `alescure@domial.fr` | 🟢 format vérifié |
+| Jean-Michel Hoff | Dir. développement/ventes/copro | `jmhoff@domial.fr` | 🟢 format vérifié |
 
 ### ICF Habitat Nord-Est — format `prenom.nom@icfhabitat.fr` ✅ VÉRIFIÉ
 | Personne | Fonction | Email | Fiabilité |
@@ -160,7 +169,7 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 > ℹ️ Foyer Moderne gère +1 500 logements sociaux à Schiltigheim — secteur de votre employeur. Format email staff non public.
 
-### AFEDIM Gestion — format `prenom.nom@afedim.fr` 🔶 (RocketReach 60,4 % — 8 formats existants)
+### AFEDIM Gestion — format `prenom.nom@afedim.fr` ✅ VÉRIFIÉ (98,8% — fiable)
 ⚠️ **AFEDIM = agence immobilière PRIVÉE** (groupe Crédit Mutuel / CIC), **PAS un bailleur social** : loyers au prix du marché, **aucun plafond de ressources**, pas de numéro unique. Siège : 4 rue Frédéric-Guillaume Raiffeisen, 67000 Strasbourg · 03 88 14 83 20.
 
 | Personne | Fonction | Email | Fiabilité |
@@ -168,16 +177,27 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 | **Franck DESCHODT** | Représentant légal / Direction AFEDIM Strasbourg | `franck.deschodt@afedim.fr` | 🔶 format probable |
 | **Marie PAILHÉ** | Responsable d'unité Gestion locative | `marie.pailhe@afedim.fr` | 🔶 format probable |
 | **Clarisse GLOTIN** | Gestionnaire locative | `clarisse.glotin@afedim.fr` | 🔶 format probable |
-| Philippe SCHMITT | Directeur réseau | `philippe.schmitt@afedim.fr` | 🔶 format probable |
-| Axelle LIMOSIN | Responsable unité Gestion sinistre | `axelle.limosin@afedim.fr` | 🔶 (basée Nantes) |
+| Philippe SCHMITT | Directeur réseau | `philippe.schmitt@afedim.fr` | 🟢 format vérifié |
+| Mikael BRANDT | Dir. développement / dir. opérationnel Transactions | `mikael.brandt@afedim.fr` | 🟢 format vérifié |
+| Axelle LIMOSIN | Responsable unité Gestion sinistre | `axelle.limosin@afedim.fr` | 🟢 (basée Nantes) |
 
 > 🎯 Brouillon créé (recherche locative privée) : TO `clarisse.glotin@` + CC `franck.deschodt@` + `marie.pailhe@`. Objet différent (pas de n° unique car parc privé).
-> ⚠️ Le format `prenom.nom@` n'est fiable qu'à 60 % chez AFEDIM (8 formats coexistent) → si l'email revient en échec, passez par leur **portail / formulaire** ou téléphonez au 03 88 14 83 20. Le plus efficace avec une agence privée reste de **répondre aux annonces** sur afedim.fr.
+> ✅ **Format confirmé à 98,8%** (`prenom.nom@afedim.fr`) — fiable. Si besoin, tél. 03 88 14 83 20. Avec une agence privée, le plus efficace reste de **répondre aux annonces** sur afedim.fr.
+
+### Alsace Habitat — agences locales VÉRIFIÉES ✅ (privilégier l'agence, pas le DG)
+⚠️ **Crise de direction** : Nabil Bennacer (ex-DG) a été **révoqué** par le CA ; Francis Bentz lui a succédé mais la situation reste instable. → **Ne pas écrire au DG** ; viser l'agence du secteur.
+| Agence | Couvre | Email | Tél |
+|--------|--------|-------|-----|
+| **Eurométropole Sud** ⭐ | Strasbourg Sud (Neudorf, Meinau, Montagne Verte), Illkirch | `contact.emssud@alsacehabitat.fr` | 03 68 71 93 00 |
+| Eurométropole Nord | Bischheim, Schiltigheim, nord | `contact.emsnord@alsacehabitat.fr` | 03 88 62 22 47 |
+| Siège | — | `contact@alsacehabitat.fr` | 03 88 65 81 90 |
+
+> 🎯 **Nouveau brouillon Alsace Habitat ⭐** : TO `contact.emssud@alsacehabitat.fr` (agence Sud = vos quartiers) + CC `contact@`. Bien plus fiable qu'un email DG deviné.
 
 ### Noms connus mais format NON confirmé (⚠️ boîte générique + « À l'attention de »)
 | Bailleur | Personne | Fonction | Indice format |
 |----------|----------|----------|---------------|
-| Alsace Habitat | Francis Bentz (DG) | Direction | échantillon `n****@alsacehabitat.fr` → probable `f.bentz@alsacehabitat.fr` (brouillon créé) |
+| Habitat de l'Ill | Ahmed Koujil | Prés. Commission Attribution | administrateur élu — pas de boîte staff |
 
 **Boîtes service directes :** Domial = `com@domial.fr`, `domial@domial.fr` · Habitation Moderne = `candidature@habitationmoderne.org` · Foyer Moderne = `rgpd@foyer-moderne.com`, `fms@foyer-moderne.com` · SEDES Habitat = `info@sedeshabitat.fr` + gestion locative directe `fullhardt@` / `rohmer@sedeshabitat.fr`.
 
