@@ -53,10 +53,10 @@
 | 7 | Habitation Moderne (générique) | habmod@habitationmoderne.org | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 7b | **Habitation Moderne (nominatif)** ⭐ | v.jacob@habitationmoderne.org + CC habmod@ + candidature@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 8 | **Habitat et Humanisme Alsace** ⭐ (agence immobilière sociale) | a.escames@habitat-humanisme.org | 🟡 Brouillon prêt | ☐ | ☐ | |
-| 9 | SEDES Habitat (générique) | info@sedeshabitat.fr | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
-| 9b | **SEDES Habitat (nominatif)** ⭐⭐ | fullhardt@sedeshabitat.fr (Illkirch) + CC rohmer@ + ciesla@ + info@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
-| 9c | **SEDES — Forêt-Noire (76 av.)** ⭐⭐⭐ | fullhardt@sedeshabitat.fr + CC ciesla@ + info@ | 🟡 Brouillon prêt (ciblé résidence) | ☐ | ☐ | |
-| 9d | **SEDES — Direction générale** | ciesla@sedeshabitat.fr + CC fullhardt@ + info@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
+| 9 | SEDES Habitat (générique) | info@sedeshabitat.fr | 🟡 Brouillon prêt (à confirmer) | ☐ | ☐ | |
+| ~~9b~~ | ~~SEDES fullhardt@sedeshabitat.fr~~ | ❌ **ADRESSE MORTE (a rebondi)** — ne pas envoyer | — | — | |
+| ~~9c/9d~~ | ~~SEDES fullhardt@ / ciesla@sedeshabitat.fr~~ | ❌ **ADRESSES MORTES** — ne pas envoyer | — | — | |
+| **9e** ⭐⭐⭐ | **SEDES — Forêt-Noire (76 av.) [CORRIGÉ]** | **contactsedeshabitat@batigere.fr** + CC info@sedeshabitat.fr | 🟡 Brouillon prêt (adresse valide ✅) | ☐ | ☐ | |
 | 10 | **Foyer Moderne de Schiltigheim** ⭐ (proche employeur) | fms@foyer-moderne.com | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 | 11 | **AFEDIM** (agence PRIVÉE — hors social) | clarisse.glotin@afedim.fr + CC franck.deschodt@ + marie.pailhe@ | 🟡 Brouillon prêt (22/06) | ☐ | ☐ | |
 
@@ -129,23 +129,28 @@ Résultat d'une recherche approfondie (documents officiels, rapports, annuaires 
 
 > ℹ️ Ahmed Koujil préside la commission d'attribution — c'est un administrateur (élu), probablement sans boîte @habitatdelill.fr. Passer par la boîte générique en mentionnant « Commission d'Attribution ».
 
-### SEDES Habitat — format `nom@sedeshabitat.fr` ✅ VÉRIFIÉ (nom de famille seul) ⭐⭐
-**Recherche approfondie 22/06 — contacts directs trouvés (emails publiés sur le site SEDES) :**
+### SEDES Habitat — ⚠️ ADRESSES MIGRÉES vers `@batigere.fr` (les `@sedeshabitat.fr` perso sont MORTES)
+🚨 **IMPORTANT (constaté 22/06)** : l'envoi à `fullhardt@sedeshabitat.fr` a **rebondi** (« adresse introuvable »). Ces adresses dataient de la page COVID **2020** ; depuis l'intégration à **Batigère Habitat (avril 2025)**, la messagerie a migré.
 
-| Personne | Fonction | Email | Secteurs gérés | Fiabilité |
-|----------|----------|-------|----------------|-----------|
-| **Fullhardt** ⭐⭐ | **Gestion locative** (LA bonne personne) | `fullhardt@sedeshabitat.fr` | **Illkirch-Graffenstaden**, Q. Vauban, Q. Laiterie, Eckbolsheim, Geispolsheim, La Wantzenau, Lingolsheim | ✅ vérifié (site) |
-| **Rohmer** ⭐⭐ | **Gestion locative** | `rohmer@sedeshabitat.fr` | Stockfeld, Q. **Neuhof**, Q. Poteries, Blaesheim, Hoenheim, Oberschaeffolsheim, Souffelweyersheim | ✅ vérifié (site) |
-| Michel CIESLA | Directeur général | `ciesla@sedeshabitat.fr` | — | 🟢 format vérifié |
-| Ali BEN ZINA | Correspondant technique | `benzina@sedeshabitat.fr` | — | ✅ vérifié |
-| Valérie VOLLMER | (administratif) | `vollmer@sedeshabitat.fr` | — | ✅ vérifié |
-| Bantzhaff | Comptabilité | `bantzhaff@sedeshabitat.fr` | — | ✅ vérifié (site) |
-| Lila CHEBBOUB | Communication/publication | `chebboub@sedeshabitat.fr` · 03 90 20 44 51 | — | 🟢 format vérifié |
-| Jacques CREPIN | Président du CA | — | — | ⚪ non public |
+**✅ Adresses ACTUELLES valides :**
+| Adresse | Usage | Fiabilité |
+|---------|-------|-----------|
+| **`contactsedeshabitat@batigere.fr`** ⭐ | Contact SEDES officiel (publié 2026) | ✅ vérifié (convocation AG 2026) |
+| `info@sedeshabitat.fr` | Boîte générique site (probablement maintenue) | 🔶 à confirmer |
+| Tél. **03 90 20 44 50** / 03 90 20 44 59 | 27 av. de l'Europe, 67012 Strasbourg | ✅ |
+
+**Format Batigère = `prenom.nom@batigere.fr` (82,4%)** — mais je n'ai PAS le prénom de Fullhardt ni la garantie qu'elle est toujours en poste après la fusion → **ne pas deviner** (risque de rebond). Passer par `contactsedeshabitat@batigere.fr` + tél.
+
+| Ancien nom (2020, ⚠️ MORT) | Secteurs gérés à l'époque |
+|----------|----------------|
+| ~~Fullhardt~~ | **Illkirch**, **Q. Vauban / Forêt-Noire**, Q. Laiterie, Eckbolsheim, Geispolsheim, Wantzenau, Lingolsheim |
+| ~~Rohmer~~ | Stockfeld, Q. **Neuhof**, Q. Poteries, Hoenheim, Souffelweyersheim |
+| ~~Ciesla~~ (DG) · ~~benzina~~ · ~~vollmer~~ · ~~bantzhaff~~ · ~~chebboub~~ | — |
 
 > 🎯 **Fullhardt = contact prioritaire** : c'est la gestionnaire locative du secteur **Illkirch-Graffenstaden** ET du **Quartier Vauban / résidences Forêt-Noire** (votre cible n°1). Rohmer couvre Neuhof. Brouillons créés : nominatif général + ciblé Forêt-Noire.
 >
-> 🏠 **76 avenue de la Forêt-Noire = résidences Forêt-Noire I & II** (gérées par Fullhardt, Quartier Vauban) : **163 + 95 logements** dont **75 T2** (43 + 32) → excellent potentiel pour votre recherche T2 min. 40 m². Gardiennage sur place. Brouillon dédié 9c créé (objet mentionnant explicitement le 76 av. de la Forêt-Noire et l'intérêt prioritaire pour ces résidences).
+> 🏠 **76 avenue de la Forêt-Noire = résidences Forêt-Noire I & II** (Quartier Vauban) : **163 + 95 logements** dont **75 T2** (43 + 32) → excellent potentiel pour votre recherche T2 min. 40 m². Gardiennage sur place.
+> 📨 **Brouillon corrigé 9e** : envoyé à l'adresse VALIDE `contactsedeshabitat@batigere.fr` (CC info@sedeshabitat.fr), objet citant le 76 av. de la Forêt-Noire, avec mention « merci de transmettre au gestionnaire en charge du 76 av. de la Forêt-Noire ». ➡️ **Le plus efficace reste d'appeler le 03 90 20 44 50** pour obtenir le nom du gestionnaire actuel du secteur Vauban et lui signaler votre intérêt.
 > ℹ️ SEDES a rejoint le groupe Batigère Habitat en avril 2025 ; le patrimoine est géré conjointement. Le format email reste `nom@sedeshabitat.fr` (nom de famille uniquement, sans prénom ni point).
 
 ### Domial — format `[initiale][nom]@domial.fr` ✅ VÉRIFIÉ (SANS point — 92,7%)
