@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 12 — **55 brouillons agences privées au total** : +7 nouveaux : Orpi Cronenbourg, IMBS Mundolsheim, Home Agency Schiltigheim ⭐⭐, Excelimo Schiltigheim ⭐⭐, Orpi MyHome Schiltigheim ⭐, Laforêt Schiltigheim, HNB Bischheim ⭐)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 13 — **63 brouillons agences privées au total** : +8 nouveaux : ITA Hœnheim, Distel Mundolsheim, Nestenn Lingolsheim, CG Immobilier, AMC Immo Eckbolsheim, Clauss Lingolsheim 🔶, Laforêt Lingolsheim, Origami ⭐)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -34,6 +34,7 @@
 12. **18 brouillons SUPPLÉMENTAIRES (22/06 nuit 2 — recherche élargie)** : Pluriel Immo (Sellam), Chevreux (Krutenau), Clauss Cronenbourg ✓, Boulle Neudorf ⭐ (Stéphanie LE MANACH gestion), Orpi Calleris (Schuller), Laforêt Orangerie ✓, R Immo Orangerie (Rossignol), B2W Centre (Weill), Enyo&Gaïa (Bodin+Lemaitre), Beausite ⭐⭐ (Dierstein nominatif), INNOVEO Robertsau (Sabourin), GroupImmo (Freyburger location 🔶), C21 Weibel (Cronenbourg), CCLV Immo (Meyer admin. biens), Raphaël Immo (Grosse), GIPA Centre (Weber PDG), A&K Immobilier Illkirch ⭐ (Krause), Orpi Centre Gare (Weiss 🔶).
 13. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 3 — administrateurs de biens + indépendants)** : Clauss Poincaré 🔶, Appart Alsace Esplanade (Schreiber), Rohanne ⭐ (N.Meyer admin. biens — 4 quai Sable), EGTI ⭐ (Lawson+Schramm — 7 bd Wilson — 20 ans admin. biens), Claude Gestion (N.Claude wanadoo — 12 bd Edwards), B&S Immobilier (Bernheim famille — 5 av. Paix — 300 biens), Synchro-Immo (contact67 — 11 rue Marais Vert — gestion locative privée + syndic).
 14. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 4 — Cronenbourg + Schiltigheim/Bischheim)** : Orpi Cronenbourg (Bierry — 40 rte Mittelhausbergen), IMBS (Mundolsheim — couvre Strasbourg), Home Agency Schiltigheim ⭐⭐ (Hertrich nominatif — depuis 1987), Excelimo Schiltigheim ⭐⭐ (contact@ — ~100 biens gérés), Orpi MyHome Schiltigheim ⭐ (myhome@ — 26 conseillers), Laforêt Schiltigheim (schiltigheim@ — 8 collaborateurs), HNB Bischheim ⭐ (contact@ — couvre Bischheim/Schiltigheim/Mundolsheim).
+15. **8 brouillons SUPPLÉMENTAIRES (22/06 nuit 5 — Lingolsheim + communes nord/ouest)** : ITA Immobilier Hœnheim (ita@ita-immobilier.fr), Distel Mundolsheim FNAIM (contact@distelimmobilier.fr), Nestenn Lingolsheim (lingolsheim@nestenn.com), CG Immobilier Strasbourg (info@cgimmo.com — gestion locative), AMC Immo Eckbolsheim (contact@amc-immo.fr — Martino gérant), Clauss Lingolsheim 🔶 (lingolsheim@christelleclauss.com), Laforêt Lingolsheim (lingolsheim@laforet.com), Origami Lingolsheim ⭐ (info@origami.immo — 4.9/5).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -134,6 +135,14 @@
 | **35a** | **Orpi MyHome Schiltigheim** ⭐ (26 conseillers) | `myhome@orpi.com` (3 rue de Lattre de Tassigny, 67300 Schiltigheim — vente/location/gestion) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 35b | Laforêt Schiltigheim (8 collaborateurs) | `schiltigheim@laforet.com` (103 rte de Bischwiller, 67300 Schiltigheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | **36a** | **HNB Immobilier Bischheim** ⭐ (FNAIM) | `contact@hnb.immo` (26 av. de Périgueux, 67800 Bischheim — couvre Bischheim/Schiltigheim/Mundolsheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 37a | ITA Immobilier Hœnheim (gestion locative) | `ita@ita-immobilier.fr` (21B rte de la Wantzenau, 67800 Hœnheim — couvre Strasbourg/Haguenau/Brumath) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 37b | Distel Immobilier Mundolsheim (FNAIM) | `contact@distelimmobilier.fr` (13A rue Gén. Leclerc, 67450 Mundolsheim — location + estimation) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 38a | Nestenn Lingolsheim | `lingolsheim@nestenn.com` (28A rue du Maréchal Foch, 67380 Lingolsheim — couvre Eckbolsheim/Wolfisheim/Holtzheim) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 38b | CG Immobilier Strasbourg (gestion locative) | `info@cgimmo.com` (2 rue Monseigneur Raess, 67200 Strasbourg — gestion locative + location) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 39a | AMC Immo Eckbolsheim (nominatif gérant) | `contact@amc-immo.fr` (Christophe MARTINO gérant, 67201 Eckbolsheim — gestion locative + location) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 39b | Christelle Clauss — Lingolsheim | `lingolsheim@christelleclauss.com` 🔶 (28 rue du Maréchal Foch, 67380 — vente/location/gestion/syndic) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 40a | Laforêt Lingolsheim | `lingolsheim@laforet.com` (16 rue du Maréchal Foch, 67380 Lingolsheim — 8 collaborateurs) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **40b** | **Origami Immobilier Lingolsheim** ⭐ (4.9/5) | `info@origami.immo` (112 rue du Maréchal Foch, 67380 — pôle Gestion & Location, 25 ans d'exp.) | 🟡 Brouillon prêt | ☐ | ☐ | |
 
 ### 🏢 Agences privées — sans email direct (formulaire uniquement)
 
