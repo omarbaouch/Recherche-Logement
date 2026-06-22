@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 10 — **41 brouillons agences privées au total** : +18 nouveaux : Pluriel, Chevreux, Clauss Cronenbourg, Boulle ⭐, Orpi Calleris, Laforêt Orangerie, R Immo, B2W, Enyo&Gaïa, Beausite ⭐⭐, INNOVEO, GroupImmo, C21 Weibel, CCLV, Raphaël Immo, GIPA, A&K Illkirch ⭐, Orpi Centre Gare)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 11 — **48 brouillons agences privées au total** : +7 supplémentaires : Clauss Poincaré, Appart Alsace Esplanade, Rohanne ⭐, EGTI ⭐, Claude Gestion, B&S Immobilier, Synchro-Immo)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -32,6 +32,7 @@
 10. **5 brouillons agences PRIVÉES supplémentaires (22/06 soir)** : Century 21 Etoile Neudorf ⭐⭐⭐ (etoile@century21france.fr), Laforêt Strasbourg (strasbourg@laforet.com), ERA Mathis Meinau ⭐⭐ (mathis@erafrance.com CC malteries@), Christelle Clauss Orangerie, Christelle Clauss Krutenau.
 11. **13 brouillons SUPPLÉMENTAIRES (22/06 nuit — recherche approfondie)** : Stéphane Plaza Neudorf/Illkirch, L'Agence Strasbourg (Meyer), L'Adresse (Pacquelet), ASI Meinau ⭐⭐ (Petitpoisson), Bintz Neudorf ⭐⭐, Orpi Illkirch Résidence 2000 ⭐, Nestenn Illkirch ⭐, Laforêt Illkirch ⭐ (P.Bury), Strasbourg Immobilier Meinau (Haslé), Francis Fischer Meinau, Hédoniste Montagne Verte ⭐, Immobilière Zimmermann (Schutz), INNOVIMMO Orangerie ⭐ (Welker).
 12. **18 brouillons SUPPLÉMENTAIRES (22/06 nuit 2 — recherche élargie)** : Pluriel Immo (Sellam), Chevreux (Krutenau), Clauss Cronenbourg ✓, Boulle Neudorf ⭐ (Stéphanie LE MANACH gestion), Orpi Calleris (Schuller), Laforêt Orangerie ✓, R Immo Orangerie (Rossignol), B2W Centre (Weill), Enyo&Gaïa (Bodin+Lemaitre), Beausite ⭐⭐ (Dierstein nominatif), INNOVEO Robertsau (Sabourin), GroupImmo (Freyburger location 🔶), C21 Weibel (Cronenbourg), CCLV Immo (Meyer admin. biens), Raphaël Immo (Grosse), GIPA Centre (Weber PDG), A&K Immobilier Illkirch ⭐ (Krause), Orpi Centre Gare (Weiss 🔶).
+13. **7 brouillons SUPPLÉMENTAIRES (22/06 nuit 3 — administrateurs de biens + indépendants)** : Clauss Poincaré 🔶, Appart Alsace Esplanade (Schreiber), Rohanne ⭐ (N.Meyer admin. biens — 4 quai Sable), EGTI ⭐ (Lawson+Schramm — 7 bd Wilson — 20 ans admin. biens), Claude Gestion (N.Claude wanadoo — 12 bd Edwards), B&S Immobilier (Bernheim famille — 5 av. Paix — 300 biens), Synchro-Immo (contact67 — 11 rue Marais Vert — gestion locative privée + syndic).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -118,6 +119,13 @@
 | 27b | GIPA Strasbourg (PDG nominatif) | `info@gipa-immobilier.fr` (Jean-Luc WEBER PDG, 1 rue Goethe, 67000 Centre) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | **28a** | **A et K Immobilier Illkirch** ⭐ (33 ans d'exp.) | `aetkimmobilier@gmail.com` (Patrick KRAUSE directeur, 225 rte de Lyon, 67400 Illkirch — + Mittelhausbergen) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 28b | Orpi Centre Gare (nominatif gérante) | `centregarestrasbourg@orpi.com` 🔶 (Audrey WEISS, 2 bd de Metz, 67000 Centre-Gare) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **29a** | Christelle Clauss — Poincaré | `strasbourg.poincare@christelleclauss.com` 🔶 (19 Bd Président Poincaré, 67000) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 29b | Appart Alsace (Esplanade — nominatif) | `lilou.schreiber@appartalsace.fr` (Lilou SCHREIBER — spécialiste Esplanade, 30 ans exp., gestion locative + meublés) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **30a** | **Agence Rohanne** ⭐ (admin. de biens) | `contact@immobiliere-rohanne.fr` (Nathalie MEYER, 4 quai au Sable, 67000 Centre — gestion locative + syndic) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **30b** | **EGTI** ⭐ (20 ans — admin. de biens indépendant) | `contact@egti.eu` (Lydia LAWSON + Delphine SCHRAMM, 7 bd Wilson, 67000 — gestion locative + syndic depuis 1991) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 31a | Claude Gestion Immobilière (nominatif) | `nadine.claude@wanadoo.fr` (Nadine CLAUDE présidente, 12 Bd Prés Edwards, 67000 — admin. de biens) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 31b | B&S Immobilier (famille Bernheim — 300 biens) | `contact@bsimmobilier.net` (Céline BERNHEIM-LOEB + Jean-Sébastien BERNHEIM, 5 av. de la Paix, 67000) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 32a | Synchro-Immo (Procivis Alsace) | `contact67@synchro-immo.fr` (11 rue Marais Vert, 67000 — gestion locative privée + syndic) | 🟡 Brouillon prêt | ☐ | ☐ | |
 
 ### 🏢 Agences privées — sans email direct (formulaire uniquement)
 
