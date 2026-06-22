@@ -3,7 +3,7 @@
 **Demandeur :** Mohamed Omar BAOUCH
 **N° unique (NUD) :** `067 06 26 000700 99999` — déposée le 06/06/2026, à renouveler avant le **06/06/2027**
 **Email :** mohamed.omar.baouch@gmail.com · **Tél :** 06 95 91 92 18
-**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 9 — **23 brouillons agences privées au total** : Century 21 Etoile ⭐⭐⭐, ERA Mathis ⭐⭐, ASI Meinau ⭐⭐, Bintz ⭐⭐, Orpi Illkirch ⭐, Nestenn Illkirch ⭐, Laforêt Illkirch ⭐, Hédoniste Montagne Verte ⭐, INNOVIMMO Orangerie ⭐, et plus)
+**Dernière mise à jour de ce fichier :** 22/06/2026 (mise à jour 10 — **41 brouillons agences privées au total** : +18 nouveaux : Pluriel, Chevreux, Clauss Cronenbourg, Boulle ⭐, Orpi Calleris, Laforêt Orangerie, R Immo, B2W, Enyo&Gaïa, Beausite ⭐⭐, INNOVEO, GroupImmo, C21 Weibel, CCLV, Raphaël Immo, GIPA, A&K Illkirch ⭐, Orpi Centre Gare)
 
 ## 🎯 Critères de recherche
 - **Type :** Appartement, **minimum 2 pièces** (au moins **1 chambre**)
@@ -31,6 +31,7 @@
 9. **5 brouillons agences PRIVÉES (22/06 après-midi)** : Orpi Neudorf (nominatif dbierryneudorf), Orpi Bartholdi (gbeutel), Citya Ségesca (nominatif jcrehm directeur), Foncia (strasbourg-location65u), Square Habitat (nominatif justine.bohlandt).
 10. **5 brouillons agences PRIVÉES supplémentaires (22/06 soir)** : Century 21 Etoile Neudorf ⭐⭐⭐ (etoile@century21france.fr), Laforêt Strasbourg (strasbourg@laforet.com), ERA Mathis Meinau ⭐⭐ (mathis@erafrance.com CC malteries@), Christelle Clauss Orangerie, Christelle Clauss Krutenau.
 11. **13 brouillons SUPPLÉMENTAIRES (22/06 nuit — recherche approfondie)** : Stéphane Plaza Neudorf/Illkirch, L'Agence Strasbourg (Meyer), L'Adresse (Pacquelet), ASI Meinau ⭐⭐ (Petitpoisson), Bintz Neudorf ⭐⭐, Orpi Illkirch Résidence 2000 ⭐, Nestenn Illkirch ⭐, Laforêt Illkirch ⭐ (P.Bury), Strasbourg Immobilier Meinau (Haslé), Francis Fischer Meinau, Hédoniste Montagne Verte ⭐, Immobilière Zimmermann (Schutz), INNOVIMMO Orangerie ⭐ (Welker).
+12. **18 brouillons SUPPLÉMENTAIRES (22/06 nuit 2 — recherche élargie)** : Pluriel Immo (Sellam), Chevreux (Krutenau), Clauss Cronenbourg ✓, Boulle Neudorf ⭐ (Stéphanie LE MANACH gestion), Orpi Calleris (Schuller), Laforêt Orangerie ✓, R Immo Orangerie (Rossignol), B2W Centre (Weill), Enyo&Gaïa (Bodin+Lemaitre), Beausite ⭐⭐ (Dierstein nominatif), INNOVEO Robertsau (Sabourin), GroupImmo (Freyburger location 🔶), C21 Weibel (Cronenbourg), CCLV Immo (Meyer admin. biens), Raphaël Immo (Grosse), GIPA Centre (Weber PDG), A&K Immobilier Illkirch ⭐ (Krause), Orpi Centre Gare (Weiss 🔶).
 
 > ⚠️ **Anciens brouillons à supprimer manuellement** dans Gmail (Gmail ne me laisse pas supprimer) : les 6 premiers brouillons (critères non affinés) + 1 brouillon « TEST » + éventuels doublons. **Gardez uniquement les brouillons contenant le LIEN DossierFacile**.
 
@@ -99,6 +100,24 @@
 | **19a** | **Hédoniste / himmo.fr** ⭐ (spécialiste Montagne Verte) | `contact@himmo.fr` (57 rte de Schirmeck, 67200 — Montagne Verte/Koenigshoffen) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | 19b | Immobilière Zimmermann (Citya/nominatif) | `schutz@immo-zimmermann.com` (François-Xavier SCHUTZ, 33 rue des Carmes, 67100) | 🟡 Brouillon prêt | ☐ | ☐ | |
 | **20a** | **INNOVIMMO Orangerie** ⭐ (nominatif directeur) | `contact@innovimmo-strasbourg.fr` (Pascal WELKER, 1 rue de Belfort, 67100 — Orangerie) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 21a | Pluriel Immobilier (nominatif directeur) | `l.sellam@immo-pluriel.fr` (Lionel SELLAM directeur, 6 rue Saint-Maurice, Centre) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 21b | Immobilière Catherine Chevreux (Esplanade/Krutenau) | `contact@immochevreux.com` (Catherine CHEVREUX, 28 Allée de la Robertsau — prestige + gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 21c | Christelle Clauss — Cronenbourg ✓ | `strasbourg.cronenbourg@christelleclauss.com` ✓ confirmé (52 rte d'Oberhausbergen, 67200) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **22a** | **Boulle Immobilier Neudorf** ⭐ (Resp. Gestion nominatif) | `stephanie@groupe-boulle.fr` (Stéphanie LE MANACH, Responsable Gestion/Location — 67 rte du Polygone, Neudorf) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 22b | Orpi Calleris Immo (nominatif directrice) | `callerisimmo@orpi.com` (Anaïs SCHULLER directrice, 126 rte de Mittelhausbergen, 67200) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 23a | Laforêt Strasbourg-Orangerie ✓ | `strasbourg-orangerie@laforet.com` ✓ confirmé (16 av. Forêt Noire, 67000 — 6 collaborateurs) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 23b | R Immobilier Orangerie/Centre (nominatif) | `nico.rossignol@hotmail.fr` (Nicolas ROSSIGNOL directeur, 12 rue d'Arras, 67000 — depuis 2005) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 24a | B2W Immo (nominatif directeur) | `info@b2w-immo.fr` (Benjamin WEILL, 11 rue des Veaux, 67000 Centre — 14 ans d'expérience) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 24b | Enyo&Gaïa Immobilier (co-directrices) | `contact@enyogaia-immo.fr` (Emilie BODIN + Gwendoline LEMAITRE, 42 av. des Vosges, 67000) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **24c** | **Beausite Immobilier** ⭐⭐ (nominatif directeur) | `philippe.dierstein@beausite-immobilier.com` + CC `contact@beausite-immobilier.com` (Philippe DIERSTEIN, 50 av. des Vosges — Orangerie/XV) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 25a | INNOVEO (Resp. Gestion Robertsau/Neudorf) | `contact@agence-innoveo.fr` (Hélène SABOURIN, 6 rue Charles de Foucauld — couvre Neudorf/Krutenau/Esplanade/Orangerie) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 25b | GroupImmo (nominatif Négociateur Location) | `arnaud.freyburger@groupimmo.pro` 🔶 + CC `pierre.guillaume@groupimmo.pro` 🔶 (2 rue J. Rathgeber, 67100) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 26a | Century 21 Weibel (Cronenbourg/Orangerie) | `weibel@century21.fr` ✓ (67 rte Mittelhausbergen + 21 av. Forêt Noire — gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 26b | CCLV Immo (nominatif — administrateur de biens) | `cclvimmo@gmail.com` (Virginie MEYER, Strasbourg — syndic + gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 27a | Raphaël Immo (nominatif directeur) | `contact@raphaelimmo.com` (Raphaël GROSSE, 26 rte des Romains, 67200 — 20 ans exp., gestion locative) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 27b | GIPA Strasbourg (PDG nominatif) | `info@gipa-immobilier.fr` (Jean-Luc WEBER PDG, 1 rue Goethe, 67000 Centre) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| **28a** | **A et K Immobilier Illkirch** ⭐ (33 ans d'exp.) | `aetkimmobilier@gmail.com` (Patrick KRAUSE directeur, 225 rte de Lyon, 67400 Illkirch — + Mittelhausbergen) | 🟡 Brouillon prêt | ☐ | ☐ | |
+| 28b | Orpi Centre Gare (nominatif gérante) | `centregarestrasbourg@orpi.com` 🔶 (Audrey WEISS, 2 bd de Metz, 67000 Centre-Gare) | 🟡 Brouillon prêt | ☐ | ☐ | |
 
 ### 🏢 Agences privées — sans email direct (formulaire uniquement)
 
@@ -108,7 +127,7 @@
 | Evoriel Strasbourg (ex-Lamy + Immoval) | — | [Formulaire evoriel.fr](https://www.evoriel.fr/) | Domaine `@evoriel.fr` ; a racheté Immoval (1972), Scheuer, Schwartz, Regency |
 | Immoval Strasbourg (réseau Oralia/Evoriel) | — | [Formulaire immoval.com](https://www.immoval.com/nous-contacter/) ☎ 03 88 39 81 39 | Référence Strasbourg depuis 1972 ; désormais groupe Evoriel |
 | Guy Hoquet Strasbourg | 2 rue Jules Rathgeber, 67100 | [Site guy-hoquet.com](https://www.guy-hoquet.com/) ☎ visible sur site | Aucun email trouvé — formulaire uniquement |
-| Christelle Clauss (autres agences) | Poincaré (19 Bd Poincaré) · Cronenbourg (52 rte Oberhausbergen) | [Formulaire christelleclauss.com](https://www.christelleclauss.com/contact) | Format probable : `strasbourg.poincare@` / `strasbourg.cronenbourg@christelleclauss.com` |
+| Christelle Clauss (agence Poincaré) | Poincaré (19 Bd Poincaré 67000) | [Formulaire christelleclauss.com](https://www.christelleclauss.com/contact) | Format probable : `strasbourg.poincare@christelleclauss.com` — Cronenbourg déjà en 21c |
 
 ---
 
